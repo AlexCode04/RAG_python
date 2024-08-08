@@ -1,0 +1,15 @@
+name: chatbot_rag
+channels:
+  - defaults
+dependencies:
+  - python=3.8
+  - numpy
+  - spacy
+  - scikit-learn
+  - pip
+  - pip:
+    - PyMuPDF
+    - faiss-cpu
+  # Instrucción para instalar el modelo de spaCy
+  - postBuild:
+    - python -m spacy download en_core_web_lg

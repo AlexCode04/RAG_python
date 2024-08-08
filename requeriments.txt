@@ -1,0 +1,5 @@
+numpy
+spacy
+faiss-cpu
+scikit-learn
+PyMuPDF
