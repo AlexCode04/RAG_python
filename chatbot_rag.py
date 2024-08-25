@@ -1,144 +1,89 @@
+import openai
 import os
-import faiss
 import numpy as np
-import spacy
-import fitz  # PyMuPDF
+from PyPDF2 import PdfReader
+from sklearn.metrics.pairwise import cosine_similarity
 
-# Cargar el modelo de spaCy
-nlp = spacy.load('en_core_web_lg')
+# Configuración de la API de OpenAI
+openai.api_key = os.getenv("OPENAI_API_KEY")  # Asegúrate de configurar esta variable de entorno
 
-# Cargar y procesar documentos PDF
-def load_documents(directory):
-    documents = []
-    filenames = []
-    for filename in os.listdir(directory):
-        if filename.endswith(".pdf"):
-            with fitz.open(os.path.join(directory, filename)) as doc:
-                text = ""
-                for page in doc:
-                    text += page.get_text()
-                documents.append(text)
-                filenames.append(filename)
-    return documents, filenames
 
-# Convertir documentos a vectores usando spaCy
-def text_to_vectors(texts):
-    vectors = []
-    for text in texts:
-        doc = nlp(text)
-        vectors.append(doc.vector)
-    return np.array(vectors)
+# Función para convertir PDFs a texto
+def pdf_to_text(pdf_path):
+    text = ''
+    with open(pdf_path, 'rb') as file:
+        reader = PdfReader(file)
+        for page in reader.pages:
+            text += page.extract_text()
+    return text
 
-# Normalizar los vectores
-def normalize_vectors(vectors):
-    norms = np.linalg.norm(vectors, axis=1, keepdims=True)
-    return vectors / norms
+# Función para obtener embeddings usando OpenAI
+def get_openai_embeddings(text):
+    response = openai.Embedding.create(
+        input=text,
+        model="text-embedding-ada-002"
+    )
+    return response['data'][0]['embedding']
 
-# Crear un índice FAISS
-def create_faiss_index(vectors):
-    dimension = vectors.shape[1]
-    index = faiss.IndexFlatIP(dimension)  # Índice para producto interno (dot product)
-    index.add(vectors)
-    return index
+# Función para convertir documentos a vectores
+def documents_to_vectors(documents):
+    document_vectors = []
+    for doc in documents:
+        chunks = [doc[i:i+2048] for i in range(0, len(doc), 2048)]  # Dividir en fragmentos
+        doc_vectors = [get_openai_embeddings(chunk) for chunk in chunks]
+        doc_vector = np.mean(doc_vectors, axis=0)  # Promediar los vectores
+        document_vectors.append(doc_vector)
+    return document_vectors
 
-# Consultar el índice FAISS
-def query_index(index, vector, k=5):
-    distances, indices = index.search(np.array([vector]), k)
-    return distances, indices
-
-# Encontrar un fragmento relevante en el documento
-def find_relevant_snippet(document, query, nlp):
-    doc = nlp(document)
-    query_doc = nlp(query)
+# Función para encontrar documentos similares
+def find_similar_documents(query, documents, filenames):
+    query_vector = get_openai_embeddings(query)
+    document_vectors = documents_to_vectors(documents)
     
-    # Verificar si hay oraciones y si los vectores no son vacíos
-    if not list(doc.sents) or query_doc.vector_norm == 0:
-        return "No se encontró un fragmento relevante."
+    similarities = cosine_similarity([query_vector], document_vectors)[0]
     
-    similarities = []
-    for sent in doc.sents:
-        if sent.vector_norm != 0:  # Asegurarse de que el vector no esté vacío
-            sim = query_doc.similarity(sent)
-            similarities.append(sim)
-    
-    if not similarities:  # Verificar si la lista de similitudes está vacía
-        return "No se encontró un fragmento relevante."
-    
-    most_similar_sentence = max(similarities)
-    most_similar_index = similarities.index(most_similar_sentence)
-    return list(doc.sents)[most_similar_index].text
+    top_indices = np.argsort(similarities)[::-1]
+    return [(filenames[i], similarities[i]) for i in top_indices]
 
+# Función principal
 def main():
-    # Cargar documentos y convertirlos a vectores
-    directory = './docs'
-    documents, filenames = load_documents(directory)
+    folder_path = 'docs/'
+    filenames = [f for f in os.listdir(folder_path) if f.endswith('.pdf')]
     
-    # Verificar si se cargaron documentos
-    if len(documents) == 0:
-        print("No se encontraron documentos en el directorio.")
-        return
-
-    vectors = text_to_vectors(documents)
+    documents = []
+    for filename in filenames:
+        pdf_path = os.path.join(folder_path, filename)
+        text = pdf_to_text(pdf_path)
+        documents.append(text)
+        print(f'Convertido {filename} a texto.')
     
-    # Verificar si se generaron vectores
-    if vectors.size == 0:
-        print("No se encontraron vectores. Saliendo.")
-        return
-    
-    vectors = normalize_vectors(vectors)
-    print(f"Shape of vectors: {vectors.shape}")
-
-    # Crear el índice FAISS
-    index = create_faiss_index(vectors)
-
     while True:
-        # Realizar consulta
         query = input("Ingresa tu pregunta (o escribe 'salir' para terminar): ")
-        
         if query.lower() == 'salir':
-            print("Saliendo del programa.")
             break
         
-        query_doc = nlp(query)
+        similar_docs = find_similar_documents(query, documents, filenames)
         
-        # Verificar si el vector de consulta es un vector vacío
-        if query_doc.vector_norm == 0:
-            print(f"No se encontraron documentos relevantes para la consulta '{query}'.")
-            continue
+        if similar_docs:
+            # Aquí se puede ajustar cómo se muestran los documentos similares
+            print("Documento más similar:")
+            print(f"Documento: {similar_docs[0][0]}")
+            print(f"Similitud: {similar_docs[0][1]:.4f}")
+        else:
+            print("No se encontraron documentos similares.")
         
-        query_vector = query_doc.vector / query_doc.vector_norm  # Normalizar el vector de consulta
-
-        # Pedir al usuario la cantidad de resultados deseados
-        try:
-            num_results = int(input("¿Cuántos resultados deseas mostrar? "))
-            if num_results <= 0:
-                raise ValueError("El número de resultados debe ser un entero positivo.")
-        except ValueError as e:
-            print(f"Entrada no válida: {e}. Mostrando 5 resultados por defecto.")
-            num_results = 5
-
-        distances, indices = query_index(index, query_vector, k=num_results)
-        
-        # Definir un umbral de similitud para filtrar resultados irrelevantes
-        threshold = 0.1  # Ajusta este valor según tus necesidades
-
-        print("Top documents:")
-        found_relevant = False
-        for dist, i in zip(distances[0], indices[0]):
-            if i == -1 or dist == 3.4028234663852886e+38:  # Evitar índices no válidos
-                continue
-            similarity = dist  # En FAISS con producto interno, la distancia es la similitud
-            if similarity > threshold:
-                found_relevant = True
-                snippet = find_relevant_snippet(documents[i], query, nlp)
-                print((60*"-")+'\n')
-                print(f"Document: {filenames[i]}")
-                print(f"Similarity: {similarity}")
-                print(f"Relevant Snippet: {snippet}")
-                print((60*"-")+'\n')
-        
-        if not found_relevant:
-            print(f"No se encontraron documentos relevantes para la consulta '{query}'.")
+        # Generar una respuesta basada en el documento más similar
+        most_similar_doc = similar_docs[0][0] if similar_docs else "No se encontraron documentos similares."
+        response = openai.ChatCompletion.create(
+            model="gpt-3.5-turbo",
+            messages=[
+                {"role": "system", "content": "Eres un asistente útil."},
+                {"role": "user", "content": f"Responde a la siguiente pregunta utilizando la información del documento: {most_similar_doc}\n\nPregunta: {query}"}
+            ],
+            max_tokens=150
+        )
+        print("Respuesta generada:")
+        print(response.choices[0].message['content'].strip())
 
 if __name__ == "__main__":
     main()

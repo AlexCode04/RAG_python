@@ -1,0 +1,1938 @@
+Introducción a la Operación de Computadoras Personales 
+Departamento de Cs. e Ing. de la Computación 
+Universidad Nacional del Sur 
+ 
+ 
+Introducción a la Operación de 
+Computadoras Personales 
+UNIDAD 2 
+CONCEPTOS BÁSICOS DE LA COMPUTADORA  
+SOFTWARE - SISTEMAS OPERATIVOS 
+ 
+Introducción a la Operación de Computadoras Personales 
+ 
+Departamento de Ciencias e Ingeniería de la Computación – Universidad Nacional del Sur 
+2 
+Tabla de contenido 
+Tabla de contenido 
+............................................................................................................................ 
+2 
+El Software ........................................................................................................................................ 
+4 
+Niveles de Usuarios y Tipos de Programas ................................................................................... 
+4 
+Licencias de Software 
+.................................................................................................................... 
+5 
+El Sistema Operativo ......................................................................................................................... 
+7 
+Novedades de Windows 7 respecto de XP ................................................................................... 
+8 
+Inicio de una sesión ..................................................................................................................... 
+10 
+El escritorio 
+.................................................................................................................................. 
+11 
+Iconos .......................................................................................................................................... 
+12 
+Accesos Directos.......................................................................................................................... 
+12 
+Escritorio en Windows 7 ............................................................................................................. 
+13 
+Ventanas 
+...................................................................................................................................... 
+18 
+Elementos de una ventana 
+.......................................................................................................... 
+19 
+Operaciones sobre ventanas 
+....................................................................................................... 
+20 
+Diferentes formas de Cerrar una Ventana .................................................................................. 
+20 
+Barra de tareas ............................................................................................................................ 
+21 
+Gadgets (Windows 7) .................................................................................................................. 
+24 
+Organización de la información ...................................................................................................... 
+26 
+Archivos ....................................................................................................................................... 
+26 
+Carpetas ...................................................................................................................................... 
+26 
+Unidades 
+...................................................................................................................................... 
+27 
+Bibliotecas ................................................................................................................................... 
+28 
+Explorador de Windows .............................................................................................................. 
+29 
+Operaciones sobre archivos y carpetas ...................................................................................... 
+29 
+Seleccionar .............................................................................................................................. 
+30 
+Activar o Abrir ......................................................................................................................... 
+30 
+Renombrar .............................................................................................................................. 
+30 
+Copiar o Mover archivos carpetas .......................................................................................... 
+30 
+Eliminar un archivo o carpeta ................................................................................................. 
+31 
+Papelera de reciclaje ................................................................................................................... 
+31 
+Administrador de Tareas ................................................................................................................. 
+31 
+Introducción a la Operación de Computadoras Personales 
+ 
+Departamento de Ciencias e Ingeniería de la Computación – Universidad Nacional del Sur 
+3 
+Seguridad Informática ..................................................................................................................... 
+32 
+Seguridad a Corto Plazo .............................................................................................................. 
+32 
+Seguridad a Mediano Plazo ......................................................................................................... 
+33 
+Seguridad a Largo Plazo .............................................................................................................. 
+33 
+Copias de Seguridad .................................................................................................................... 
+34 
+Virus Informáticos ....................................................................................................................... 
+34 
+Métodos de protección ............................................................................................................... 
+35 
+Compresión de Datos ...................................................................................................................... 
+35 
+Compresión sin pérdidas 
+............................................................................................................. 
+35 
+Compresión con pérdidas ........................................................................................................... 
+36 
+Comprimir y Descomprimir en Windows 7 ................................................................................. 
+36 
+Accesos directos del teclado en el escritorio .................................................................................. 
+37 
+Acción .......................................................................................................................................... 
+37 
+Combinación de Teclas 
+................................................................................................................ 
+37 
+Windows 8 
+....................................................................................................................................... 
+38 
+Inicio de una sesión ..................................................................................................................... 
+38 
+Pantalla de Inicio ......................................................................................................................... 
+38 
+Personalizar la pantalla Inicio 
+.................................................................................................. 
+39 
+El Escritorio 
+.................................................................................................................................. 
+41 
+Tipos de aplicaciones .................................................................................................................. 
+41 
+Barra de opciones del sistema: Charm Bar ................................................................................. 
+43 
+Controles, gestos y atajos de teclado en Windows 8 ................................................................. 
+45 
+ ................................................................................................................................................. 
+45 
+Atajos de teclado de Windows 8 
+............................................................................................. 
+46 
+Windows 10 
+..................................................................................................................................... 
+47 
+Novedades de la interfaz de usuario 
+........................................................................................... 
+50 
+ 
+ 
+Introducción a la Operación de Computadoras Personales 
+ 
+Departamento de Ciencias e Ingeniería de la Computación – Universidad Nacional del Sur 
+4 
+El Software 
+Cuando un fabricante termina de construir una computadora, esta puede ejecutar operaciones 
+sumamente simples. Sin embargo, aun las computadoras más primitivas tienen una característica 
+que las distingue: son capaces de adquirir nuevas habilidades, siempre que estén expresadas a partir 
+de instrucciones simples que le resultan conocidas. Un programa es justamente una secuencia de 
+instrucciones que permite resolver un nuevo problema a partir de otros conocidos. Para que una 
+computadora pueda interpretar las instrucciones tienen que estar escritas en un lenguaje de 
+programación.  
+El software es el conjunto de programas y datos almacenados en una computadora. El software 
+es la componente lógica que permite que los dispositivos físicos puedan ser utilizados. 
+El concepto de ejecutar secuencias de instrucciones almacenadas en la memoria de un dispositivo 
+para controlar los cálculos, fue introducido por Charles Babbage al diseñar su máquina diferencial. El 
+fundamento teórico sobre el que se basa el desarrollo de software moderno fue propuesto por Alan 
+Turing en su ensayo de 1936. 
+NIVELES DE USUARIOS Y TIPOS DE PROGRAMAS 
+El uso de computadoras requiere de la intervención de personas con diferentes tipos de 
+habilidades. Por un lado, están los técnicos e ingenieros electrónicos que diseñan y construyen el 
+hardware. Luego están los analistas, licenciados e ingenieros en sistemas que diseñan y construyen 
+el software. Por último, están los usuarios que acceden al hardware a través de los programas. Existen 
+programas extremadamente complejos de programar y otros más sencillos. Existen programas muy 
+fáciles de aprender a usar y otros que requieren de usuarios muy capacitados y con mucho 
+entrenamiento. Normalmente en una computadora residen programas de diferentes tipos: 
+Software de Aplicación: Son programas orientados a automatizar actividades o asistir al usuario 
+en la realización de sus tareas. Comprende tanto a programas utilitarios de uso general, como a 
+programas a medida. 
+Los programas utilitarios como su nombre lo indica son programas que brindan una “utilidad” 
+específica y no están diseñados para un tipo de usuario particular, pueden usarse en empresas, 
+industrias, comercios, escuelas, etc. Incluyen procesadores de texto, gestores de bases de datos, 
+videojuegos, navegadores para la web, etc.  
+Para cada tipo de utilitario, por ejemplo, procesadores de texto, hay muchas marcas distintas y 
+cada marca se actualiza con frecuencia con nuevas versiones. En general los programas utilitarios 
+pueden empezar a utilizarse con poco entrenamiento, pero para poder aprovecharlos plenamente 
+es necesario adquirir bastante práctica. En la actualidad probablemente uno de los procesadores de 
+textos más populares es Word y la planilla de cálculo más usada es Excel. Ambos productos fueron 
+diseñados por Microsoft y se actualizan con frecuencia. 
+Los programas a medida se desarrollan considerando los requerimientos de un usuario o 
+institución específico. Por ejemplo, el dueño de un video o la directora de una escuela le encargan a 
+un programador una aplicación para automatizar algunas de las actividades de la institución. Pueden 
+ser programas relativamente fáciles de desarrollar y de aprender a usar. Sin embargo, dentro de este 
+Introducción a la Operación de Computadoras Personales 
+ 
+Departamento de Ciencias e Ingeniería de la Computación – Universidad Nacional del Sur 
+5 
+grupo también existen programas complejos como los que se desarrollan para un aeropuerto, un 
+organismo de gobierno o para un banco, con fuertes restricciones de seguridad.  
+Existen programas con una funcionalidad específica para determinado dominio de aplicación, pero 
+que no fueron desarrollados de acuerdo a requerimientos de un usuario particular. Por ejemplo, 
+programas para oficinas, videos, hoteles, colegios o para escribanos. Son más complejos y generales 
+que los programas a medida tanto para el programador que los diseña como para el usuario que los 
+utiliza.  
+Escribir un programa utilitario poderoso es una tarea compleja que demanda el esfuerzo de 
+muchos profesionales. Muchas veces utilitarios de diferentes tipos, pero de una misma marca, se 
+agrupan en un “paquete”. Las mayores ventajas de usar programas de un paquete son la uniformidad 
+y la integración. Es decir, todos los programas del paquete tendrán una apariencia y un 
+funcionamiento similar, aunque sirvan para diferentes cosas y permitirán mover texto e imágenes de 
+manera sencilla entre una aplicación y otra. Por ejemplo, la opción para abrir, guardar o imprimir 
+será idéntica en un procesador de textos y en una planilla de cálculo de un mismo paquete. Un 
+paquete muy popular es Microsoft Office que incluye a Word, Excel y PowerPoint entre otros. 
+Software de Sistema: son los programas encargados de controlar las operaciones básicas de la 
+computadora, de manera tal que los usuarios puedan utilizar los recursos provistos por el hardware, 
+sin conocer detalles de su funcionamiento interno. El sistema operativo es el responsable de 
+organizar el acceso y la utilización de las distintas componentes del hardware. Cuando encendemos 
+la computadora es el sistema operativo quien se hace cargo del control de la ejecución. Cuando 
+activamos un programa cualquiera, el sistema operativo sigue ejecutándose “detrás”. Cuando 
+guardamos, imprimimos o abrimos un documento, es el sistema operativo el que recibe la orden y 
+se hace responsable de esta tarea, aun cuando el usuario esté interactuando con otro programa, 
+como por ejemplo el procesador de textos. 
+Cualquier otro programa, utilitario, específico o desarrollado a medida, debe construirse “sobre” 
+un sistema operativo particular. Por ejemplo, un juego que funciona correctamente en una 
+computadora con un sistema operativo, probablemente no funcione en otra que tenga un sistema 
+operativo diferente. 
+Software de Programación: Incluye compiladores e intérpretes de lenguajes de programación, 
+depuradores y entornos integrados de desarrollo. Las computadoras sólo ejecutan programas 
+almacenados como secuencias de 0 y 1. Sin embargo, actualmente los programadores no escriben 
+programas formados por 0 y 1, sino que usan lenguajes de programación de alto nivel. Para que estos 
+programas puedan ejecutarse un compilador o intérprete, traduce estos programas de alto nivel a 
+una representación de bajo nivel. Existen diferentes lenguajes de programación, algunos muy usados 
+son: Java, C, Visual Basic, etc.  
+LICENCIAS DE SOFTWARE 
+En el mundo del software conviven personas y entidades con filosofías muy distintas respecto a lo 
+que debe ser la informática: hay empresas muy competitivas que buscan máximos beneficios a costa 
+de los usuarios y de las demás empresas; también las hay que, buscando sus legítimos beneficios, 
+también aspiran a que sus programas sean correctos y útiles y sus usuarios reciban un buen trato. 
+También hay pequeñas empresas que sólo buscan sobrevivir con pequeños programas que 
+Introducción a la Operación de Computadoras Personales 
+ 
+Departamento de Ciencias e Ingeniería de la Computación – Universidad Nacional del Sur 
+6 
+desempeñan correctamente su misión. Y, por último, existen bastantes personas que desean que los 
+programas se distribuyan y usen libremente, sin que obtener beneficio económico por ello sea su 
+objetivo principal. 
+Las licencias del software son las distintas maneras que tienen las empresas, organizaciones y 
+personas de autorizar el uso de sus programas. Una licencia es un contrato privado de cesión de 
+derechos entre particulares. Cada una elige la que le parece más conveniente, bien por motivos éticos 
+o simplemente comerciales. 
+Software Propietario: Éste es el más conocido por el público. A veces se usan erróneamente los 
+términos software comercial o cerrado. Por el dinero que se paga, el usuario (llamado cliente en este 
+caso) recibe el programa y la garantía de que funcionará; si no lo hace, se podrá consultar al servicio 
+técnico de la compañía que (en el mejor de los casos) resolverá los problemas surgidos. Una situación 
+muy común es que la compañía no arregle inmediatamente los errores de sus programas, sino que 
+lance al mercado nuevas versiones con mejoras y arreglos y comunique a sus clientes anteriores que 
+pueden actualizarse por un precio algo inferior al del nuevo producto. En ningún caso puede el 
+usuario modificar el software. 
+Shareware: Con esta palabra inglesa se describe el tipo de software que primero se prueba y luego 
+se paga; es decir, los usuarios pueden comprobar si el software les resulta de utilidad antes de 
+desembolsar alguna cantidad de dinero. La garantía, por tanto, es absoluta y el riesgo nulo. Si después 
+del periodo de prueba el usuario decide quedarse el programa, deberá registrarse, es decir, 
+comunicar con los autores y pagar el dinero establecido, que generalmente es una cantidad muy 
+razonable. A veces los autores entregan a los usuarios registrados un manual o una versión más 
+completa del programa, con más características que la versión sin registrar. Un ejemplo de ello son 
+la mayoría de los programas antivirus. 
+Freeware: Los programas de esta categoría son los de distribución y uso gratuito. Sus autores los 
+distribuyen por los canales que consideran más adecuados e intentan que resulten conocidos y útiles. 
+Los usuarios no pagan nada y a cambio tampoco reciben garantía alguna, es decir, si el software no 
+funciona no se puede reclamar legalmente nada; sin embargo, lo habitual, en caso de problemas, es 
+contactar directamente con el autor y explicar la situación.  Un ejemplo de ello son los navegadores 
+de internet como Mozilla Firefox, Chrome, Opera, etc. 
+Software Libre o de Código Abierto (Open Source): son los programas que se distribuyen 
+incluyendo el código fuente. De esta manera, además de poder aprender cómo están hechos, el 
+mismo usuario puede arreglar errores y adaptar el programa a sus gustos.  
+El Software Libre no tiene por qué ser gratuito. De hecho, su denominación de Libre se debe a que 
+se tratan de programas de Código Abierto (Open Source) y es ahí donde reside la esencia de su 
+libertad: los programas bajo licencias GPL, una vez adquiridos, pueden ser usados, copiados, 
+modificados y redistribuidos libremente. 
+El Software Libre no tiene por qué ser gratuito, del mismo modo en que el Freeware no tiene por 
+qué ser libre. 
+Introducción a la Operación de Computadoras Personales 
+ 
+Departamento de Ciencias e Ingeniería de la Computación – Universidad Nacional del Sur 
+7 
+El Sistema Operativo 
+Un sistema operativo (SO) es un programa o conjunto de programas que gestionan los recursos 
+provistos por el hardware, brindan algunos servicios y controla la ejecución del resto de los 
+programas. Una de las principales funciones de un sistema operativo es facilitar la comunicación 
+entre el usuario y la computadora.  Existen diferentes tipos de Sistema Operativos: 
+ Multitarea: Pueden ejecutar más de un programa al mismo tiempo.  
+ Multiusuario: Permiten que varios usuarios compartan simultáneamente los recursos 
+provistos por la computadora.  
+ Multiproceso: Pueden coordinar las operaciones de varios procesadores 
+simultáneamente.  
+Escribir un sistema operativo, cualquiera sea el tipo, es una tarea extremadamente compleja y 
+requiere de programadores expertos. 
+Windows es un sistema operativo multitarea y monousuario. El modelo de comunicación se basa 
+en ventanas a través de las cuales el sistema envía información al usuario y recibe los controles que 
+el usuario indica.  Las ventanas muestran al usuario información de cualquier tipo, ya sea texto o 
+gráfico.  Los controles son elementos incluidos en una ventana que permite al usuario realizar 
+operaciones. 
+Actualmente hay varias versiones de Windows de uso frecuente. Los menús, la apariencia de las 
+ventanas, los cuadros de diálogo y las facilidades provistas varían de una versión a otra. Windows ha 
+sido elaborado en torno a tres objetivos de diseño: 
+1. Interactuar con el usuario a través de una interfaz gráfica, en vez de obligar al usuario a 
+memorizar una lista de comandos un tanto crípticos para llevar adelante incluso las tareas más 
+elementales. 
+2. Manifestar un funcionamiento altamente intuitivo, que permita que el usuario descubra la 
+forma de hacer la tarea por delante, en vez de tener que consultar los manuales o a un experto. 
+3. Lograr que las diversas aplicaciones presenten una estructura similar, de forma que las 
+habilidades adquiridas con una cierta aplicación puedan ser aprovechadas al trabajar con otras 
+aplicaciones. 
+Existen 
+muchas 
+versiones diferentes de 
+Windows, cada una con 
+sus particularidades y 
+apuntando a solucionar 
+diferentes problemas y 
+destinadas a distintos 
+usuarios. Nosotros nos 
+centraremos en cuatro 
+versiones ampliamente 
+Introducción a la Operación de Computadoras Personales 
+ 
+Departamento de Ciencias e Ingeniería de la Computación – Universidad Nacional del Sur 
+8 
+utilizadas: Windows XP, Windows 7, Windows 8 y Windows 10. Se estima que en los inicios del 2017 
+Windows 7 seguía instalado en un 47% de las PCs del mundo, sin embargo, Windows 10 ha 
+comenzado a utilizarse muy fuertemente ocupando un 25% de las PCs y en la actualidad supera a 
+Windows 8 y XP con un 7% y 10% respectivamente.  
+Cada versión de Windows, además, está subdividida de acuerdo al mercado al que apunta. Por 
+ejemplo, las versiones Starter apuntan a un mercado que no requiera potencia de procesamiento 
+destinada principalmente para las netbooks. La versión Home está destinada para máquinas 
+hogareñas, es decir, aquellas que necesitan realizar tareas diversas de todo tipo, pero con una 
+conectividad limitada. La versión Professional, Enterprise o Ultimate están destinadas al uso 
+empresarial ya que disponen de facilidades para crear redes y administrar múltiples recursos 
+compartidos como también usuarios y privilegios de acceso. 
+NOVEDADES DE WINDOWS 7 RESPECTO DE XP 
+ 
+Modo XP. Windows 7 dispone de un Modo XP. Con él podemos simular que trabajamos en 
+un sistema operativo Windows XP y de este modo seguir utilizando aplicaciones que no son 
+compatibles con el nuevo sistema operativo. Está disponible para todas las versiones de 
+Windows 7 excepto la Home Premium. 
+ 
+Jump lists. Cuando nos situamos en la barra de tareas y hacemos clic con el botón derecho 
+del ratón sobre el icono de un programa, nos ofrece un índice de tareas o de los últimos 
+archivos o páginas que se han utilizado. En el menú 
+Iniciar también sale una pequeña flecha junto al 
+nombre del programa, para ofrecer acceso rápido 
+a esta información. En ambos casos el menú está 
+contextualizado. Por ejemplo, para Internet 
+Explorer mostrará las webs más frecuentes que se 
+han visitado y algunas tareas relacionadas, como 
+vemos en la imagen. 
+ 
+Ver redes disponibles. Haciendo clic sobre el icono de redes 
+en la barra de tareas (junto al reloj) descubriremos esta 
+opción. Veremos directamente las redes inalámbricas 
+disponibles y conectaremos en poco más de un par de clics. 
+Sólo dispondremos de esta opción en caso de que nuestro 
+equipo tenga la posibilidad de conectarse vía Wi-fi.  
+ 
+Aero Peek. En la barra de tareas, en el extremo derecho, 
+vemos la opción Mostrar el escritorio. Mientras el cursor esté 
+encima de esta zona, todas las ventanas se vuelven 
+transparentes, es decir, se ocultan y nos permite visualizar el 
+escritorio y los gadgets de Windows sin 
+necesidad de minimizar las ventanas. 
+Cuando quitamos el cursor, las ventanas se 
+vuelven a mostrar.  
+ 
+Introducción a la Operación de Computadoras Personales 
+ 
+Departamento de Ciencias e Ingeniería de la Computación – Universidad Nacional del Sur 
+9 
+ 
+Grupo Hogar. Crea un Grupo Hogar en el que el sistema se encarga automáticamente de crear 
+una red interna en la cual se pueden compartir archivos o trabajar con una impresora 
+compartida. El grupo está protegido por contraseña y tenemos pleno control de qué 
+contenidos queremos compartir y cuáles no. 
+ 
+Device Stage. Es un gestor de recursos físicos, 
+donde vienen detallados todos los dispositivos que 
+están conectados en ese momento al ordenador. 
+Nos puede facilitar el trabajo cuando conectamos el 
+móvil o la cámara de fotos al sistema. Además, se 
+permite que los fabricantes puedan personalizar el 
+contenido y las opciones para cada uno de sus 
+dispositivos. 
+ 
+Biblioteca de Windows. En Windows 7 los 
+documentos se organizan de forma distinta a otras 
+versiones anteriores. Lo que se venía conociendo 
+como Mis documentos, ahora se llama Bibliotecas y 
+permite una organización más eficaz. Por ejemplo, si tenemos la música distribuida por 
+álbumes, podríamos crear la biblioteca "jazz" e incluir en ella todas las carpetas que 
+contengan música de este tipo, independientemente de si están o no en el mismo disco duro. 
+Además, 
+también 
+se 
+ha 
+mejorado 
+el 
+sistema 
+de 
+búsqueda. 
+Todo esto nos permite trabajar con nuestros documentos con una visión más global. No sólo 
+en un ámbito local, sino también en red. Podemos organizar una biblioteca conjunta mediante 
+el Grupo Hogar que 
+hemos comentado 
+anteriormente, y así 
+centralizar todas las 
+películas 
+que 
+disponemos en cada 
+uno 
+de 
+los 
+ordenadores 
+de 
+casa, 
+para 
+posteriormente 
+visualizarlas en la 
+televisión. 
+ 
+Mejor rendimiento. Según Microsoft, el sistema se apaga, enciende y suspende con mayor 
+rapidez que en anteriores versiones. Además, utiliza menos energía. El equipo de Windows 7 
+ha procurado optimizar el uso de los recursos físicos para que podamos disfrutar de una 
+mayor duración en las baterías. Esto último es especialmente útil para las notebooks. 
+ 
+Reproducir en. Cuando reproducimos una o varias canciones en el Reproductor de Windows 
+Media, nos permite la opción Reproducir en otro equipo del Grupo Hogar. Esto puede ser en 
+otro ordenador o, por ejemplo, en la TV de la sala de estar. 
+ 
+Remote Media Streaming. Permite el acceso a nuestras bibliotecas (fotos, música, 
+documentos...) desde otro equipo con Windows 7 instalado, a través de Internet. Es decir, 
+desde fuera de nuestro Grupo Hogar, por ejemplo, desde el trabajo. 
+Introducción a la Operación de Computadoras Personales 
+ 
+Departamento de Ciencias e Ingeniería de la Computación – Universidad Nacional del Sur 
+10 
+ 
+Windows Touch. Windows 7 está pensado para poderse utilizar con una pantalla táctil. Esto 
+no es novedoso, lo novedoso es que permite el multitoque. Es decir, tocar con varios dedos 
+simultáneamente para trabajar. Los programas que Windows 7 incorpora, como el Paint o el 
+teclado en pantalla, se han modificado para permitir esta nueva forma de trabajar. 
+ 
+Gadgets. Windows 7 deja más libertad para posicionarlos en cualquier parte. 
+ 
+ 
+Programas incluidos. Entre ellos se encuentran la clásica calculadora o el bloc de notas. 
+Algunos han cambiado considerablemente, como el Paint o el WordPad, tanto en aspectos 
+estéticos con el objetivo de homogeneizar los programas de Microsoft, como funcionales. El 
+navegador disponible en Windows 7 es Internet Explorer 8 y el reproductor el Windows Media 
+Player 12. 
+ 
+Buscador. El buscador del menú Iniciar ahora agrupa los resultados por categorías. Además, 
+no sólo busca en el contenido de nuestro ordenador, sino también en los que estén dentro 
+de la misma red o en las bibliotecas que compartamos con otros equipos. De esta forma, no 
+importa con cuántos discos u equipos trabajemos, el buscador resultará útil. 
+ 
+Windows Media Center. Hay versiones de Windows 7 con y sin Windows Media Center. En 
+las que disponen de él se puede observar que han incluido algunas funciones, como la de 
+crear presentaciones de fotografías con música o ver y grabar la TV a través de él. Sin olvidar 
+la mayor funcionalidad que le ofrece la capacidad de compartir bibliotecas. Además, también 
+han ampliado los formatos admitidos: 3GP, AAC, AVCHD, DivX, MOV y Xvid. 
+ 
+Windows Defender y BitLocker. Se han mejorado estos sistemas de seguridad con respecto 
+a versiones anteriores. Aun así, es absolutamente recomendable instalar un antivirus. 
+ 
+Barra de tareas. Es más flexible. Nos deja mover los botones de programas en ejecución 
+simplemente arrastrándolos. Además, nos permite anclar a la barra los programas que 
+estamos ejecutando, o visualizar los diferentes documentos en una vista en miniatura en el 
+caso de ventanas agrupadas, simplemente pasando el ratón por encima. 
+INICIO DE UNA SESIÓN 
+Al encender una computadora que tenga instalado el sistema operativo Windows se pueden 
+apreciar un conjunto de pantallas informativas que indican si los distintos componentes de la 
+computadora están respondiendo de la forma esperada. En primer lugar, los componentes de 
+hardware hacen su inicialización (si prestamos atención, se puede escuchar diversos motores que 
+aceleran, ventiladores que comienzan a desplazar aire, etc.). Si todo sale bien, comienza la 
+inicialización de los componentes lógicos, es decir, Windows comienza a preparar la trastienda del 
+escenario para que podamos utilizar la computadora. Una vez terminado el proceso de inicialización, 
+tanto de hardware como de software, arribamos a una pantalla de bienvenida en la cual nos debemos 
+Introducción a la Operación de Computadoras Personales 
+ 
+Departamento de Ciencias e Ingeniería de la Computación – Universidad Nacional del Sur 
+11 
+identificar. Como las computadoras en general no cuentan con la capacidad de reconocer a las 
+personas a simple vista, se utiliza un mecanismo un tanto más primitivo de reconocimiento (pero no 
+por eso menos efectivo): la combinación de un nombre de usuario y una contraseña. Si bien es posible 
+que otros usuarios conozcan nuestro nombre de usuario, es de esperar que no estén al tanto de 
+nuestra contraseña, ya que desde la perspectiva de la computadora todo usuario que conozca 
+nuestra combinación de nombre de usuario y contraseña tendrá acceso a todos nuestros 
+documentos personales y a toda la información privada que tengamos almacenada en la 
+computadora. 
+En Windows 7 verá una pantalla como la siguiente donde se podrá seleccionar entre los diferentes 
+usuarios existentes. 
+ 
+Además, del registro de ingreso (Login), puede observar que aparecen en la pantalla dos botones: 
+ 
+El botón azul pequeño, ubicado en la esquina inferior izquierda, personaliza 
+Windows 7 para personas con discapacidades físicas, auditivas, visuales o de 
+destreza manual. Si presiona este botón por error, presione Cancel (Cancelar) para 
+eliminar el menú de opciones de su pantalla sin modificar la configuración. 
+ 
+El pequeño botón rojo ubicado en la esquina inferior derecha le permite apagar 
+su PC. Haga clic en la pequeña flecha que está junto al botón rojo y Windows 7 
+terminará su sesión hibernando, apagando su PC o reiniciando. 
+ 
+EL ESCRITORIO 
+Cuando se enciende la computadora, se inicia la ejecución del sistema operativo y en pantalla 
+aparece el escritorio.   
+Introducción a la Operación de Computadoras Personales 
+ 
+Departamento de Ciencias e Ingeniería de la Computación – Universidad Nacional del Sur 
+12 
+Este es el punto de partida y no es más que el fondo sobre 
+el cual se sitúan los iconos y la barra de tareas. Al comenzar 
+la operación, aparece en la pantalla un pequeño gráfico móvil 
+denominado puntero 
+o cursor, cuya posición está 
+directamente relacionada con el desplazamiento del ratón. 
+Aun cuando la mayoría de las operaciones pueden ser 
+realizadas mediante el teclado, el ratón proporciona el modo 
+más cómodo e intuitivo de seleccionar y mover objetos en la pantalla.  
+En Windows se utiliza en general sólo dos de los botones del ratón (si bien es posible encontrar 
+en el mercado ratones con tres o más botones). Mientras no se especifique lo contrario, cualquier 
+referencia a un botón del ratón significará el botón principal, esto es, el botón izquierdo. El botón 
+secundario, esto es, el botón derecho, se utiliza para acceder al menú contextual. Este menú es el 
+mejor aliado de cualquier usuario: las opciones contenidas en el menú contextual dependen del 
+objeto sobre el que se haya hecho clic, agrupando las operaciones más probables o frecuentes, lo 
+que nos ahorra tener que recordar en cuál de los menús se encontraba la opción buscada.  
+Las distintas funciones que se pueden realizar con el ratón surgen de la combinación de una o más 
+de las siguientes acciones:  
+ Apuntar: consiste de llevar el puntero a un lugar concreto de la pantalla, desplazando el ratón 
+sobre la mesa o la alfombrilla.  
+ Hacer clic (o click en inglés): consiste de pulsar y soltar un botón del ratón (puede ser tanto el 
+botón izquierdo como el derecho).  
+ Arrastrar: consiste en mover el ratón de un lugar a otro, manteniendo pulsado uno de los 
+botones, para luego soltar el botón al llevar al destino deseado.  
+ Hacer doble-clic: consiste de pulsar y soltar el botón dos veces en rápida sucesión. 
+Dependiendo de dónde esté situado el puntero del ratón, suele adoptar diferentes formas, las 
+más comunes son una flecha orientada hacia la izquierda y ligeramente hacia arriba (modalidad de 
+apuntado), una barra vertical similar al cursor de edición de texto (modalidad de edición), o un 
+pequeño reloj de arena indicando que la computadora se encuentra ocupada atendiendo el último 
+requerimiento del usuario. 
+ICONOS  
+Un icono es un dibujo de tamaño pequeño que se utiliza para representar un objeto. Por ejemplo, 
+una impresora, un programa, una unidad de disco.  Las operaciones básicas que podemos hacer sobre 
+los iconos son: abrir, seleccionar, mover, copiar, renombrar y eliminarlos. 
+Los iconos nos sirven para identificar de qué tipo de archivo se trata y con qué programa funciona. 
+Por ejemplo, los documentos de Microsoft Word aparecen todos con el icono del Word. En el caso 
+de los archivos ejecutables, los iconos suelen tener una imagen distinta para cada programa. 
+ACCESOS DIRECTOS  
+Los accesos directos son un tipo de archivo cuyo objetivo es abrir de forma inmediata el archivo 
+al que está vinculado, ya sea un ejecutable, una carpeta, una imagen, etc. Los accesos directos los 
+Introducción a la Operación de Computadoras Personales 
+ 
+Departamento de Ciencias e Ingeniería de la Computación – Universidad Nacional del Sur 
+13 
+podemos crear en cualquier parte, y los distinguimos porque, aunque el icono se 
+puede personalizar, tienen un pequeño cuadradito con una flecha es su parte inferior 
+izquierda. 
+Por ejemplo, cuando instalamos un programa en Windows 7, lo normal es que todos sus archivos 
+se instalen en una carpeta Archivos de programa de tu disco duro. Pero cuando queremos ejecutar 
+la aplicación, no vamos a esa carpeta cada vez a buscar el archivo ejecutable, ya que en el proceso 
+de instalación se crean accesos directos en el Escritorio y en una carpeta en Todos los programas, en 
+el Menú Inicio. 
+Por eso, aunque los accesos directos apuntan al archivo que ejecutan, son independientes, y 
+podemos borrarlos sin que eso borre el archivo vinculado. Para abrir un Acceso directo, igual que con 
+otro tipo de archivo, basta con hacer doble clic sobre su icono.  
+ESCRITORIO EN WINDOWS 7 
+En Windows 7 el escritorio es sensiblemente diferente a XP ya que modifica algunas de las 
+componentes existentes y agrega algunas nuevas funcionalidades. En la siguiente figura se muestra 
+un escritorio típico en Windows 7.  
+ 
+En Windows 7 el menú de inicio cambió su apariencia, pero sigue encontrándose en la misma 
+ubicación, la parte inferior izquierda de la pantalla. 
+Introducción a la Operación de Computadoras Personales 
+ 
+Departamento de Ciencias e Ingeniería de la Computación – Universidad Nacional del Sur 
+14 
+ 
+Windows XP 
+ 
+Windows 7 
+Si lo seleccionamos se desplegará un menú similar al que se muestra a continuación. Se trata del 
+menú Inicio. También podemos acceder a él mediante el teclado pulsando la tecla Windows.  
+En la parte superior se muestra un pequeño recuadro con la imagen del usuario. Si pasamos el 
+ratón por algún programa del menú Inicio, la imagen irá cambiando a su correspondiente icono. En 
+el menú Inicio podemos distinguir diferentes zonas. Vamos a ir viendo cada una de ellas: 
+ La zona de la izquierda contiene a su 
+vez tres áreas separadas por una 
+línea delgada. 
+1. En el área superior aparecen 
+programas como Internet Explorer 
+y Bloc de notas. Esto no significa 
+que sólo podamos ver programas 
+del propio Sistema Operativo en 
+esta posición, con el tiempo y el uso 
+de diferentes programas, Windows 
+irá 
+detectando 
+los 
+últimos 
+programas utilizados y los irá 
+incluyendo. 
+La 
+forma 
+de 
+personalizar esta zona es hacer clic 
+con el botón derecho sobre un 
+elemento que no nos interese y 
+pulsar sobre la opción de la lista 
+Quitar de esta lista. En la imagen, por ejemplo, 
+quitamos la opción Conectarse a un proyector. 
+En algunos de los programas que vemos en esta zona 
+veremos un triángulo negro. Al situar el cursor encima o hacer 
+clic en este triángulo aparecerán propuestas de Frecuentes, 
+Recientes o Tareas, según el programa.  
+Introducción a la Operación de Computadoras Personales 
+ 
+Departamento de Ciencias e Ingeniería de la Computación – Universidad Nacional del Sur 
+15 
+ 
+Esta es la funcionalidad Jump list que hemos comentado en el tema de novedades de Windows 7. 
+El sistema detecta automáticamente documentos o acciones que cree que pueden sernos de utilidad 
+y nos las ofrece. De esta forma, no hace falta abrir el programa y luego buscar el documento que 
+hemos cerrado hace 5 minutos, sino que desde la lista que nos muestra la flecha 
+podemos 
+seleccionar directamente este archivo y abrirlo inmediatamente. 
+Los elementos de estas jump list también son susceptibles de anclarse, es decir, podemos indicar 
+que este documento permanezca siempre en la lista propuesta para este programa. Podemos hacer 
+esto de dos formas: mediante la chincheta (tachuela) que aparece al situarse sobre el archivo  
+ 
+o con el botón derecho sobre el nombre del documento y seleccionar “Anclar a esta lista”. 
+Debemos tener en cuenta que anclar demasiados elementos crearía listas muy extensas y perdería 
+la funcionalidad de acceder rápidamente a un archivo de uso frecuente, porque no lo encontraríamos 
+de un simple golpe de vista.  
+2. Más abajo, vemos un pequeño triángulo 
+y la opción Todos los programas. Este elemento 
+nos permite ver los programas que hemos instalado en nuestro equipo.  
+ 
+Para desplegar el menú y visualizarlos sólo tienes que dejar el ratón unos segundos sobre esta 
+opción, o hacer clic. Si tenemos muchos programas, aparecerá una barra de desplazamiento para que 
+podamos ver la lista completa. Para volver al estado anterior, abajo veremos la misma flecha o 
+triángulo y la opción Atrás. Pulsamos en ella o dejamos el cursor unos instantes sobre la opción y 
+veremos el menú Inicio en su estado original. 
+Introducción a la Operación de Computadoras Personales 
+ 
+Departamento de Ciencias e Ingeniería de la Computación – Universidad Nacional del Sur 
+16 
+ 
+Un detalle a apreciar es que en Todos los programas podemos encontrar carpetas, además de 
+programas. Tendremos que pulsar una vez sobre la carpeta 
+para ver su contenido. Si nos fijamos, el contenido sale 
+tabulado, es decir, con un pequeño desplazamiento a la 
+derecha, para que distingamos qué programas forman parte 
+del contenido de la carpeta y qué programas están al mismo 
+nivel y, por lo tanto, no dependen de esta carpeta. En este caso, Windows Update no formaría parte 
+de Accesorios, pero sí el resto de elementos. 
+3. En la zona inferior encontramos la caja de búsqueda 
+. En 
+ella podremos buscar ficheros y programas, estén donde estén en nuestro ordenador. Si 
+escribimos algo en ella nos presentará un listado de los resultados que ha encontrado. En el 
+caso de los programas y los archivos podremos pulsar sobre el resultado con el botón derecho 
+del ratón para desplegar un menú contextual. En el menú, elegimos la opción Abrir la 
+ubicación del archivo. De esta forma, abriremos la 
+carpeta en que se encuentra el programa rápidamente 
+sin tener que buscarla por todo nuestro equipo.  
+A parte de estas tres áreas, que son las que nos encontraremos al instalar Windows 7, podemos 
+personalizar los programas que se ven en la parte superior. Es decir, crear un área personalizada. 
+Para ello simplemente pulsamos con el botón derecho sobre un programa del Menú Inicio que 
+Introducción a la Operación de Computadoras Personales 
+ 
+Departamento de Ciencias e Ingeniería de la Computación – Universidad Nacional del Sur 
+17 
+utilicemos mucho y queramos tener más accesible y seleccionamos Anclar al menú Inicio. Si 
+anclamos, por ejemplo, Internet Explorer, aparecerá otra delgada línea en la parte superior del menú. 
+Ahora tendremos cuatro áreas, las tres que hemos 
+comentado antes y la de nuestros programas preferidos. 
+También podemos anclar un programa del menú Inicio 
+simplemente arrastrándolo a la parte superior del menú. El 
+sistema nos indicará que nos disponemos a anclarlo con la 
+imagen del icono y un pequeño mensaje. Si estamos de 
+acuerdo, soltaremos el botón izquierdo del ratón y si 
+cambiamos de opinión pulsaremos ESC antes de soltarlo. 
+ La zona de la derecha contiene a su vez tres áreas separadas también por una línea delgada. 
+ 
+1. Un área personal, con las principales Bibliotecas 
+del usuario: Documentos, Imágenes y Música, así 
+como acceso a su carpeta personal, a la que se 
+accede pulsando sobre el nombre del usuario. 
+2. Otra relacionada al contenido del Equipo, desde la 
+que podremos ver los diferentes discos duros y las 
+carpetas que contienen.  
+3. Una tercera área dedicada a la gestión y 
+administración del equipo. En ella encontramos el 
+Panel de control, Dispositivos e Impresoras, 
+Programas predeterminados y Ayuda y Soporte 
+técnico.  
+ 
+Desde el Panel de control podremos configurar y 
+personalizar el aspecto de Windows, los usuarios, el 
+hardware... 
+ 
+En Dispositivos e Impresoras podemos ver todos los 
+elementos que tenemos conectados: impresoras, fax, etc. 
+y añadir nuevos dispositivos. 
+ 
+La opción Programas predeterminados permite elegir 
+qué programa se ejecuta para qué función o con qué 
+archivo.  
+ 
+Si tenemos alguna duda podremos recurrir a la Ayuda y 
+soporte técnico que Windows nos ofrece. 
+Introducción a la Operación de Computadoras Personales 
+ 
+Departamento de Ciencias e Ingeniería de la Computación – Universidad Nacional del Sur 
+18 
+ 
+Por último, abajo de todo se encuentra el botón Apagar. Sirve 
+para apagar el equipo, como es lógico. Junto a él la flecha 
+ nos 
+abre un menú con las siguientes opciones: 
+ 
+Cambiar de usuario: Para iniciar la sesión con otro 
+usuario, si el equipo tiene una cuenta para cada miembro 
+diferente. Todo lo que el usuario actual está corriendo 
+queda ejecutándose. 
+ 
+Cerrar sesión: Para volver a la pantalla donde se inicia 
+Windows y nos solicita que elijamos un usuario. Windows 
+cerrará los programas que estén abiertos.  
+ 
+Bloquear: Muestra el inicio de sesión del usuario en curso, 
+sin cerrar nada. Esto es útil, por ejemplo, si nos vamos a 
+apartar un momento y tenemos cosas abiertas que no 
+queremos que otras personas toquen o vean. 
+ 
+Reiniciar: Apaga todos los programas que estén abiertos 
+en el momento, cierra el sistema y lo enciende de nuevo 
+inmediatamente, sin que tengamos que pulsar nada más. 
+El reinicio será necesario en ocasiones, durante la 
+instalación de alguna aplicación o para solucionar 
+problemas de funcionamiento. 
+ 
+Suspender: Apaga muchos de los componentes o 
+periféricos, como los altavoces o la pantalla, pero 
+mantiene encendido lo imprescindible para que no se 
+pierda el trabajo que estábamos haciendo. 
+ 
+Hibernar: Apaga completamente la computadora, pero 
+previamente guarda el estado (un porcentaje o 
+totalmente) de la misma en un archivo para restaurar este 
+estado al reiniciar. Esto requiere de espacio adicional. 
+La apariencia y comportamiento del menú de inicio se puede adaptar a nuestro gusto. 
+VENTANAS  
+La ventana es el mecanismo que usa Windows para presentar información al usuario.  Cada vez 
+que se inicia la ejecución de un nuevo programa se abre una nueva ventana, lo que nos permite tener 
+varias aplicaciones funcionando a la vez e ir 
+cambiando de una a otra, mostrando u ocultando sus 
+ventanas. La ventana permanece abierta mientras el 
+programa esté en ejecución. La mayor parte de las 
+ventanas de Windows siguen la misma estructura y 
+son similares a la que puedes ver en esta imagen. 
+Esta ventana corresponde al Bloc de Notas de Windows.  
+Introducción a la Operación de Computadoras Personales 
+ 
+Departamento de Ciencias e Ingeniería de la Computación – Universidad Nacional del Sur 
+19 
+ELEMENTOS DE UNA VENTANA 
+1. Barra de Título: Es la franja horizontal situada a lo largo de toda la parte superior de la 
+ventana. 
+2. Los Botones de Tamaños: Permiten variar el tamaño de las ventanas. Están situados en la 
+esquina superior derecha y permiten minimizar, maximizar, restaurar y cerrar. 
+ 
+ El botón minimizar 
+ convierte la ventana en un botón situado en la barra de tareas, 
+escondiendo la ventana. 
+ El botón maximizar 
+ amplia el tamaño de la ventana a todo el área de trabajo, sin 
+dejar de mostrar la barra de tareas. 
+ El botón restaurar 
+ da a la ventana un tamaño menor al de pantalla completa, para 
+permitirnos ajustar el tamaño y la posición que consideremos oportuno. Por defecto 
+adopta el tamaño y posición de la última vez que fue restaurada. Sólo se muestra 
+cuando la ventana está maximizada. 
+ El botón de cerrar 
+ se encarga de cerrar la ventana. En el caso de haber realizado 
+cambios en algún documento te preguntará si deseas guardar los cambios antes de 
+cerrar. 
+Barra de Menú: Algunas ventanas tienen una línea de menú situada justo debajo de la barra de 
+título, es una franja horizontal formada por varios nombres separados entre sí, cada uno de los cuales 
+ofrece distintas opciones, los más habituales son: Archivo, Edición, Ver, Ayuda, etc. Para abrir un 
+menú y mostrar su contenido hacemos clic sobre el nombre del menú.  
+Barra de herramientas: Aparece debajo de la línea de menús, está formada por varios iconos que 
+permiten activar rápidamente las tareas más habituales. Si situamos el puntero del ratón sobre un 
+icono de esta barra y esperamos un par de segundos, nos aparecerá un pequeño recuadro de texto 
+con información sobre la acción que realiza ese botón.  
+Barras de desplazamiento (scroll): En ocasiones el tamaño de la ventana no resulta suficiente para 
+mostrar todo el contenido que corresponde, de modo que sólo se muestra una parte.  Para poder 
+ver el resto se utilizan las barras de desplazamiento. Una está situada a la derecha y otra en la parte 
+inferior, la primera mueve el contenido de arriba abajo y la otra de izquierda a derecha.  
+La barra sólo se activará, es decir, podremos utilizarla, cuando haya contenido que no cabe en la 
+ventana. Además, el tamaño de la barra dependerá de cuánto contenido existe fuera de nuestra área 
+de visualización: Si la barra es muy pequeña, es porque hay mucho contenido no visible, si es grande 
+todo lo contrario. Podemos desplazarnos de distintas formas: Arrastrando la barra con el ratón, 
+haciendo clic en las flechas que hay a los extremos o, en el caso de la barra vertical, también 
+podremos moviendo la rueda central del ratón hacia arriba o hacia abajo, si el nuestro dispone de 
+una. 
+ 
+Nota: Algún mouse incorporan una ruedita entre los botones izquierdo y derecho cuya función 
+principal es la de mover la barra de desplazamiento, de esta forma agiliza y hace más placentera la 
+Introducción a la Operación de Computadoras Personales 
+ 
+Departamento de Ciencias e Ingeniería de la Computación – Universidad Nacional del Sur 
+20 
+experiencia del usuario con la computadora, especialmente al momento de tener que leer mucho 
+material como en internet o ebooks. 
+Barra de estado: La mayoría de las ventanas tienen en su parte inferior una franja horizontal 
+llamada barra de estado.  El contenido de ésta varía según el contenido de la ventana. 
+OPERACIONES SOBRE VENTANAS 
+Una vez que una ventana está abierta, las operaciones fundamentales que pueden realizarse sobre 
+ella son reactivar, actualizar, mover, cambiar de tamaño, maximizar, restaurar, minimizar y cerrar.  
+Reactivar: Si tenemos varias ventanas abiertas en el escritorio, la ventana activa es la que aparece 
+en primer plano y sobre la cual se efectúan las operaciones que estemos realizando.  Para saber cuál 
+es esta ventana nos fijamos en la barra de título, y comprobamos cual es la que tiene un color 
+diferente a las demás, esa será la ventana activa.  Nosotros podemos seleccionar otra ventana y 
+convertirla en activa, simplemente pulsando con el ratón sobre cualquier parte de esa ventana. Si 
+esta no se ve en la pantalla, haremos clic en el icono de la barra de tareas. 
+Actualizar una ventana: Si hemos realizado algún tipo de acción, los cambios normalmente se 
+reflejan automáticamente, sino fuera así es necesario actualizar el contenido de la ventana, para ello 
+convertimos la ventana en activa y usamos la opción Actualizar del menú Ver. 
+Mover una ventana: Consiste en cambiar la posición de la misma dentro del escritorio. Sólo se 
+puede realizar cuando no ocupe todo el escritorio. Para hacerlo situamos el puntero del ratón en 
+cualquier parte de la barra de título, presionamos en el botón principal del ratón y lo arrastramos.   
+Cambiar el tamaño de (Redimensionar) una ventana: Podemos personalizar el tamaño de una 
+ventana colocando el cursor en el borde de la ventana. Cuando apreciemos que su forma cambia a 
+una flecha bidireccional 
+, estamos bien situados. Haciendo clic y arrastrando podremos darle 
+forma. En los bordes derecho e izquierdo cambiaremos el ancho. En los bordes superior e inferior 
+cambiaremos la altura  y en el caso de querer cambiar ambos, podemos posicionar el ratón en 
+cualquiera de las esquinas de la ventana 
+. Esto es posible siempre que la ventana no esté en estado 
+maximizado. En caso de que esté maximizada, es decir, ocupe toda la pantalla, puedes hacer un doble 
+clic sobre la barra superior de la ventana y se restaurará, permitiéndote ajustar el tamaño. 
+Maximizar-Restaurar una ventana: Maximizar una ventana es aumentar su tamaño hasta que 
+ocupe la pantalla completa.  Para maximizarla, pulsamos el botón central de la barra de título. Si 
+oprimimos el mismo botón cuando la ventana está maximizada, se restaura el tamaño que tenía 
+antes.  
+Minimizar una ventana: Permite remover la ventana del escritorio, aunque la aplicación sigue en 
+ejecución. Para llevar a cabo esta acción pulsamos con el ratón en el botón izquierdo de la barra de 
+título. En la barra de tareas del escritorio se agrega un icono que representa la ventana. Si pulsamos 
+en ese icono la ventana vuelve a ser la activa y ocupa la misma posición y tamaño que tenía 
+anteriormente.   
+DIFERENTES FORMAS DE CERRAR UNA VENTANA 
+Windows nos ofrece la posibilidad de cerrar las ventanas de varias formas.  
+Introducción a la Operación de Computadoras Personales 
+ 
+Departamento de Ciencias e Ingeniería de la Computación – Universidad Nacional del Sur 
+21 
+ Con el Ratón. Haciendo clic sobre el botón 
+ situado en la parte superior derecha de la 
+ventana. 
+ Pulsando en la esquina superior izquierda. Al hacerlo, se despliega un menú con las opciones 
+de la ventana, en el que podemos escoger Cerrar. 
+ A través del menú. Abriendo el menú Archivo, cuando está disponible, o haciendo clic sobre 
+la esquina superior izquierda y seleccionando la opción Cerrar o Salir. La opción salir cierra la 
+aplicación por completo. Ya que es habitual que las aplicaciones permitan trabajar con varios 
+documentos a la vez dentro de sí mismas, la opción cerrar nos servirá para cerrar la ventana 
+activa, es decir, la que estamos visualizando. 
+ Con el teclado. Con las teclas Alt + F4 podremos ir cerrando las ventanas activas una por 
+una. En caso de no haber ninguna abierta nos preguntará si queremos cerrar el sistema. 
+ Cerrar desde la barra de tareas. En la barra inferior vemos un icono por programa abierto. Si 
+tenemos abiertas varias sesiones de un mismo programa, por ejemplo, si hemos abierto dos 
+ventanas 
+diferentes 
+de 
+Internet 
+Explorer, Windows 7 las agrupará. 
+Podemos cerrarlas todas a la vez 
+haciendo clic con el botón derecho en el 
+icono correspondiente de la barra de 
+tareas. Esto hará que aparezca una 
+ventana como la siguiente, ya sólo 
+queda hacer clic en la opción Cerrar 
+todas las ventanas. Si en cambio sólo 
+hemos abierto una ventana indicará la 
+opción Cerrar ventana. 
+Sea cual sea la forma que utilices para cerrar, si tratas de cerrar un programa sin haber guardado 
+los cambios que has efectuado, te saldrá un cuadro de diálogo preguntándote si deseas guardar los 
+cambios antes de cerrar. 
+ 
+ Guardar. Guarda los cambios y después cierra la aplicación. 
+ No guardar. Cierra la aplicación sin guardar los cambios. 
+ Cancelar. Vuelve a la pantalla anterior, no guarda los cambios y tampoco cierra la aplicación. 
+BARRA DE TAREAS  
+La barra de tareas está situada normalmente en la parte inferior de la pantalla.  Se encuentra 
+dividida en tres partes:  
+ El botón Inicio. 
+Introducción a la Operación de Computadoras Personales 
+ 
+Departamento de Ciencias e Ingeniería de la Computación – Universidad Nacional del Sur 
+22 
+ Una zona donde se muestran los iconos de los programas que tengamos abiertos. También 
+se muestran los iconos de los programas anclados (en XP como menú rápido y en W7 como 
+una facilidad por defecto). 
+ El Área de notificación, con la hora, el volumen del sonido y otros iconos que dependen de la 
+configuración. 
+Windows XP 
+ 
+Windows 7 
+ 
+Por defecto Windows 7 agrupa por programas (puede deshabilitarse cambiando la configuración 
+estándar). Es decir, si tenemos 5 ventanas de Internet Explorer abiertas, sólo veremos un botón. 
+Si nos fijamos en la imagen de la barra de tareas vemos que hay tres botones: el que corresponde 
+al Reproductor Windows Media, el de Internet Explorer y el del Explorador de Windows. Cada uno 
+de estos tres botones está en un estado diferente, vamos a comentarlos uno a uno para aprender a 
+identificar estos estados. De izquierda a derecha, encontramos: 
+ 
+El Reproductor Windows Media se encuentra anclado. Distinguimos este estado porque 
+alrededor del botón no hay ningún borde que envuelva el icono en forma de botón. 
+ 
+Internet Explorer tiene varias ventanas abiertas, en este caso tres. Sabemos que hay más de 
+una página Web abierta porque el borde derecho del botón tiene como varias solapas, 
+simulando que hay una sobre otra. 
+ 
+El Explorador de Windows está abierto, pero sólo hay una ventana de este tipo, por eso tiene 
+un borde de botón simple. 
+¿Qué significa tener un programa anclado a la barra 
+de tareas?  
+Lo mismo que hemos explicado en el Menú Inicio. 
+Cuando tenemos una ventana abierta y vemos su 
+correspondiente botón en la barra de tareas, podemos 
+decidir anclarlo (también con botón derecho y clic en 
+Anclar este programa a la barra de tareas). Esto implicará 
+que cada vez que arranquemos el sistema, tendremos ahí un acceso directo al programa. Para 
+quienes hayan trabajado con versiones anteriores de Windows, esta función substituye a la barra de 
+Inicio Rápido (Quick Launch), que ya no existe en Windows 7. 
+¿Cómo sabremos si un programa está anclado o no, si está abierto?  
+Introducción a la Operación de Computadoras Personales 
+ 
+Departamento de Ciencias e Ingeniería de la Computación – Universidad Nacional del Sur 
+23 
+No lo sabremos a simple vista, porque tendrá el aspecto del segundo o el tercer botón, según el 
+número de ventanas que hayamos abierto. Pero si cerramos todas las ventanas del programa, se 
+mantendrá en la barra y adquirirá el aspecto del primero. 
+El área de notificación 
+Esta área contiene iconos que representan los programas residentes (programas que se cargan 
+automáticamente al encender el ordenador), como los programas antivirus; programas que se están 
+ejecutando, pero permiten minimizarse y quitar su botón de la barra de tareas para ganar espacio, 
+como los programas de mensajería (Windows Messenger o Skype); y otras informaciones adicionales, 
+como la fecha y hora, el idioma o el estado de la conexión a Internet o del sonido. 
+ 
+Los iconos menos usados se ocultan automáticamente, y para verlos, 
+debemos pulsar el botón con forma de triángulo, como siempre. 
+A la derecha de esta zona, además, encontramos un elemento que ya 
+hemos comentado anteriormente en el tema de novedades de Windows 7, el botón Mostrar 
+Escritorio con la capacidad Aero Peek. Se trata de una zona en forma de barra vertical situado justo 
+a la derecha de la fecha y hora. Si pasamos el cursor sobre esta zona, las ventanas 
+se vuelven transparentes y se muestra el escritorio. Cuando quitamos el cursor de 
+esta zona, las ventanas vuelven a hacerse visibles.  
+Si mostramos el escritorio utilizando la modalidad Aero Peek (que en definitiva significa realizar 
+alguna acción sin necesidad de hacer clic), nos sería imposible, porque al poner el cursor en el 
+escritorio volverían a aparecer las ventanas. En este caso, deberíamos hacer clic en Mostrar Escritorio 
+para que se quede así, con todas las ventanas ocultas. Para volver a mostrarlas debemos volver a 
+hacer clic sobre la misma zona. Esta forma de utilizar el botón sería idéntica a la del antiguo botón de 
+Mostrar Escritorio de anteriores versiones de Windows, simplemente se ha colocado en la zona de 
+notificación, porque ya no existe la barra de inicio rápido en que se solía situar.  
+Introducción a la Operación de Computadoras Personales 
+ 
+Departamento de Ciencias e Ingeniería de la Computación – Universidad Nacional del Sur 
+24 
+ 
+GADGETS (WINDOWS 7) 
+Los gadgets son pequeñas utilidades que hacen funciones simples, como mostrar un calendario, 
+el tiempo de nuestra ciudad o convertir divisas. La Galería de Gadgets es un panel que se encarga de 
+mostrar los gadgets que tenemos instalados en la computadora. En la instalación de Windows 7 
+vienen incluidos algunos gadgets básicos, aunque podemos descargar de Internet otros como 
+sintonizadores de emisoras de radio, sudokus o cualquier otro que nos pueda resultar de utilidad. 
+ 
+Cómo activar los gadgets  
+Abrimos la Galería de gadgets de escritorio. Hay varias formas de hacerlo: 
+1. Desde el Escritorio: Pulsando sobre él con el botón derecho, desplegamos el menú 
+contextual y elegimos Gadgets. 
+2. Desde el menú Inicio: Escribimos en el cuadro de búsqueda Galería de gadgets de 
+escritorio.  
+3. Desde el menú Inicio: Si nos aparece la opción directamente en el menú. 
+Introducción a la Operación de Computadoras Personales 
+ 
+Departamento de Ciencias e Ingeniería de la Computación – Universidad Nacional del Sur 
+25 
+4. Desde el Panel de Control situado en el menú Inicio: Seleccionamos Programas y a 
+continuación elegimos Gadgets de Escritorio. 
+Sea cual sea la forma que utilicemos, una vez tenemos la galería abierta podremos activar un 
+gadget haciendo doble clic sobre él. Podemos abrir tantas veces como queramos el mismo gadget, 
+por ejemplo, podríamos abrir dos de El Tiempo y configurar desde las Opciones uno para mostrar el 
+tiempo de nuestra ciudad de residencia y otro para la ciudad donde trabajamos. También podemos 
+Descargar más gadgets en línea, si disponemos de conexión a Internet. 
+Para realizar acciones sobre un gadget, basta con pulsar sobre él con el botón derecho. Aparece 
+un menú contextual que tendrá más o menos estas opciones 
+ 
+Agregar gadgets: Podremos acceder a los gadgets instalados 
+en el equipo y también encontraremos enlaces para poder 
+descargar nuevos gadgets de forma gratuita. 
+ 
+Mover nos permite cambiar su posición, aunque es más 
+cómodo arrastrarlo directamente. 
+ 
+Si activamos la opción Siempre visible nos permite ver el 
+gadget siempre en primer plano, por encima de las ventanas 
+que tengamos abiertas. 
+ 
+En Opacidad, podemos elegir la transparencia (de 20% a 100%) que tiene el gadget cuando 
+no tiene el cursor encima, ya que al señalarlo con el cursor se verá en opacidad 100%. 
+ 
+Por último, Cerrar gadget lo quita del Escritorio. 
+ 
+Puede haber otras opciones en el menú contextual como Tamaño, Opciones, etc. dependerá 
+de cada gadget.  
+Algunas de estas opciones también aparecen en la esquina derecha del gadget seleccionado. 
+Debemos recordar que cuando tenemos ventanas abiertas que tapan los gadgets y queremos ver 
+alguno de ellos, podemos Mostrar el escritorio a través de la zona del área de notificación, las teclas 
+rápidas, etc.  
+ 
+ 
+Introducción a la Operación de Computadoras Personales 
+ 
+Departamento de Ciencias e Ingeniería de la Computación – Universidad Nacional del Sur 
+26 
+Organización de la información 
+Windows organiza los datos en una estructura de árbol basada en tres elementos: unidades 
+(Units), carpetas (Folders) y archivos (Files).   
+ 
+ARCHIVOS  
+Para poder identificar los datos almacenados en una unidad, éstos se agrupan en colecciones 
+llamadas archivos o ficheros.  Un archivo puede contener una carta, un dibujo, un programa de 
+aplicación, etc. Un archivo tiene atributos como nombre, tipo (extensión), tamaño y fecha de 
+creación y de modificación. El ícono asociado a cada archivo depende de su tipo. 
+El nombre del archivo incluye un nombre identificativo y extensión separados por un punto. Por 
+ejemplo: Carta.docx. La extensión suele constar de tres o cuatro letras únicamente y sirve para 
+distinguir el tipo de datos que contienen los archivos. La misma se puede asignar manualmente o 
+automáticamente. Por ejemplo, cuando guardamos un documento que hemos redactado con un 
+programa como Microsoft Word, el propio programa le asigna su extensión (.docx). Cada programa 
+se encarga de asignar su extensión a los documentos que genera, de esta forma el sistema operativo 
+sabe con qué programa debe abrirlos la próxima vez que le hagamos doble clic al archivo.  
+Cada archivo de datos creado con un programa es un documento; puede ser un texto escrito con 
+un procesador de textos, un dibujo creado con un programa de diseño, una foto digitalizada con un 
+escáner, un sonido tomado con el micrófono, etc. 
+Los nombres de archivos tienen un máximo permitido de 255 caracteres. Desde luego suele ser 
+más que suficiente, de hecho, un nombre más largo que eso sería incómodo. Procurar que los 
+nombres de los archivos sean breves y descriptivos puede ser clave a la hora de organizar nuestros 
+documentos, porque nos resultará más fácil verlos de un simple golpe de vista y además será más 
+intuitivo a la hora de realizar una búsqueda para ubicarlos. 
+CARPETAS 
+Se utilizan para clasificar de forma lógica los archivos que tenemos en 
+nuestro ordenador. Reciben un nombre al igual que los archivos y también 
+es aconsejable que sean lo más descriptivos posible. De este modo, nos 
+será mucho más fácil encontrar la información que deseamos. Una carpeta 
+puede contener dentro archivos o/y otras carpetas, llamadas subcarpetas. 
+Las carpetas también reciben el nombre de directorios.  
+Introducción a la Operación de Computadoras Personales 
+ 
+Departamento de Ciencias e Ingeniería de la Computación – Universidad Nacional del Sur 
+27 
+UNIDADES 
+La computadora ofrece dispositivos de almacenamiento para guardar datos y programas. Existen 
+diferentes tipos de dispositivos o unidades de almacenamiento, algunos fijos y otros removibles. Los 
+dispositivos removibles pueden ser internos o externos. Un dispositivo externo en principio puede 
+usarse en distintos equipos.  
+Una unidad es como una carpeta pero que abarca mucha más información. Las unidades son 
+divisiones imaginarias que hacemos de nuestro ordenador para acceder más fácilmente a la 
+información.  
+Lo habitual es que una unidad se corresponda con un dispositivo, ya sean discos duros (internos o 
+externos) o dispositivos extraíbles. Normalmente cada unidad tiene una letra del abecedario para 
+identificarla, que suelen ser: 
+ 
+Las letras A y B para disqueteras.  
+ 
+La letra C para el disco duro donde está instalado el sistema operativo. 
+ 
+Y otras letras correlativas (D, E, F.…) para las diferentes 
+unidades que disponemos: disquetera, reproductora 
+o grabadora de DVD, memoria USB, etc. 
+En esta imagen, por ejemplo, observamos dos discos duros 
+que tienen asignadas las letras C y D, además de un dispositivo 
+de almacenamiento que sería la unidad E. Para ver las 
+unidades que tiene nuestra computadora debemos hacer 
+click en la opción Equipo del menú Inicio. 
+Es posible que en nuestra computadora las unidades no se correspondan o no mantengan un 
+orden correlativo. Esto no tiene mayor importancia. Lo importante es que sepamos en qué unidad 
+está qué información. 
+Cuando queremos describir dónde se encuentra un archivo debemos dar el camino para llegar a 
+él. Una ruta de acceso (camino) es la dirección de un archivo. Cuando se envía una carta a su casa, 
+por ejemplo, viaja por su país, estado, ciudad, calle y finalmente, o afortunadamente, llega hasta el 
+número de su apartamento o casa. La ruta de acceso de una computadora hace exactamente lo 
+mismo. Empieza con la letra de la unidad de disco y termina con el nombre del archivo. En el medio, 
+la ruta de acceso brinda una lista de todas las carpetas por las cuales debe viajar su computadora 
+hasta llegar al archivo. Este camino se suele denominar ruta (path en inglés) y puede ser de dos tipos: 
+ 
+Ruta completa o absoluta: Es la ruta desde la unidad hasta la carpeta o 
+archivo 
+al 
+que 
+nos 
+referimos. 
+Por 
+ejemplo: 
+C:\Documents 
+and 
+Settings\álvaro\Mis Documentos\Mi Música\canción.mp3 
+donde:  
+ 
+'C:' es la unidad de almacenamiento en la que se encuentra el archivo. 
+ 
+'\Documents and Settings\álvaro\Mis Documentos\Mi Música\' es la ruta del archivo. 
+Introducción a la Operación de Computadoras Personales 
+ 
+Departamento de Ciencias e Ingeniería de la Computación – Universidad Nacional del Sur 
+28 
+ 
+'canción' es el nombre del archivo. 
+ 
+'.mp3' es la extensión del archivo  
+ 
+Ruta relativa: Es la ruta que depende de dónde estemos situados. Se obvia la información 
+desde la unidad hasta la carpeta donde estamos situados. Por ejemplo, si en un ejercicio 
+estamos situados en la carpeta álvaro sería más sencillo que referenciemos al archivo con su 
+ruta relativa: \Mis Documentos\Mi Música\canción.mp3 en lugar de indicar la ruta 
+completa. 
+Cada carpeta puede visualizarse de maneras diferentes. Su contenido puede aparecer en forma 
+de íconos grandes ordenados por nombre: 
+ 
+O en forma de lista, resumida o detallada ordenada en forma ascendente por fecha: 
+ 
+En cualquier caso, en la ventana aparecen las carpetas y los archivos que podemos ordenar de 
+acuerdo a diferentes criterios: alfabéticamente por nombre o por tipo, cronológicamente por fecha 
+o numéricamente por tamaño.  
+BIBLIOTECAS 
+Una biblioteca, en cambio, en lugar de mostrar los contenidos de una sola carpeta, muestra los 
+contenidos de varias carpetas. Por ejemplo, su biblioteca de música muestra las canciones de su 
+carpeta Mi Música, además de las canciones en su carpeta Música Pública.  
+Windows 7 creó cuatro bibliotecas para que guarde sus archivos y carpetas: Documentos, Música, 
+Imágenes y Videos. Para acceder a ellas fácilmente, debe ir al Panel de Navegación sobre el lado 
+izquierdo de cada carpeta. 
+Introducción a la Operación de Computadoras Personales 
+ 
+Departamento de Ciencias e Ingeniería de la Computación – Universidad Nacional del Sur 
+29 
+EXPLORADOR DE WINDOWS 
+El Explorador es una herramienta con la que podemos organizar y controlar los archivos y carpetas 
+de los distintos sistemas de almacenamiento que dispongamos, como puede ser el disco duro, la 
+unidad de CD, la unidad de DVD, la memoria USB, etc. 
+El Explorador de Windows también es conocido como el Administrador de Archivos. A través de él 
+podemos ver, eliminar, copiar o mover archivos y carpetas. Existen herramientas alternativas al 
+explorador, como TotalCmd, pero la ventaja del explorador es que es parte de las herramientas con 
+las que viene Windows, y, por lo tanto, siempre la vamos a tener presente en cualquier máquina con 
+Windows. Puedes abrir el Explorador de varias formas, por ejemplo: 
+ Desde el botón Iniciar se puede encontrar al hacer clic en Todos los programas, clic en la 
+carpeta Accesorios y buscar 
+. 
+ Haciendo doble clic sobre su acceso directo en el escritorio. 
+ Pulsando las teclas rápidas Windows + E. 
+El Explorador en definitiva es una ventana que contiene a su izquierda todas las carpetas del 
+sistema en orden jerárquico. Al abrir tu Explorador de Windows te encontrarás con una ventana 
+similar a la de la imagen.  
+ 
+Existe también una Barra de menús que a los usuarios de otras versiones de Windows puede 
+resultarles más familiar, pero por defecto está oculta.  
+OPERACIONES SOBRE ARCHIVOS Y CARPETAS 
+Las operaciones más frecuentes sobre archivos y carpetas son: seleccionar, activar (abrir), 
+eliminar, mover y copiar. Todas las opciones pueden realizarse sobre el ícono que representa al 
+archivo o carpeta o sobre su nombre.  
+Introducción a la Operación de Computadoras Personales 
+ 
+Departamento de Ciencias e Ingeniería de la Computación – Universidad Nacional del Sur 
+30 
+Seleccionar 
+Para seleccionar cualquier icono, situamos el puntero encima de él y hacemos un clic con el ratón. 
+Si queremos seleccionar varios iconos que están unos junto a otros, presionamos el botón principal 
+del ratón en el primer icono a seleccionar, luego manteniendo la tecla Shift presionada se hace clic 
+en el último icono a seleccionar. Si los iconos no están juntos, seleccionamos el primer icono, luego 
+seleccionamos los siguientes pulsando la tecla Ctrl y haciendo un clic. Para seleccionar todos los 
+iconos que aparecen utilice la opción Seleccionar Todos (Select All) desde el menú Edición (Edit) o 
+presione la combinación de teclas Ctrl+E.  
+Si tiene que seleccionar muchos iconos, pero no todos, puede utilizar la siguiente estrategia: 
+Seleccione todos con la combinación de teclas Ctrl+E y luego manteniendo sólo la tecla Ctrl 
+presionada haga clic sobre los iconos que quiere deseleccionar. 
+Activar o Abrir  
+Para abrir o activar un archivo o carpeta simplemente hacemos doble clic sobre su icono. Si es un 
+programa se inicia su ejecución. Si es un documento escrito con un procesador de textos, se abre el 
+procesador de textos y documento.  
+Renombrar 
+Para cambiar el nombre de un icono primero lo seleccionamos, y luego hacemos un clic sobre el 
+nombre. El nombre queda resaltado y aparece el cursor de texto permitiendo escribir el nuevo 
+nombre.  Otro procedimiento es, una vez seleccionado el icono, cliqueamos con el botón derecho y 
+dentro del menú que aparece seleccionamos Cambiar nombre. 
+Copiar o Mover archivos carpetas 
+Una manera de mover o copiar archivos o carpetas es usar las opciones Cortar (Mover) o Copiar y 
+luego la opción Pegar del menú Edición. Los pasos son: 
+ Nos ubicamos en la carpeta en la que está actualmente la información que deseamos mover 
+o copiar (carpeta Origen). 
+ Seleccionamos los iconos. 
+ Elegimos Cortar o Copiar. 
+ Nos posicionamos luego en la carpeta en la cual deseamos volcar la información (carpeta 
+Destino). 
+ Elegimos la opción Pegar. 
+Para cambiar de una carpeta a otra podemos tener ambas ventanas ubicadas sobre el escritorio, 
+o minimizarlas y reactivarlas.  
+Otra manera de mover una selección de iconos entre carpetas de la misma unidad, es arrastrarlos 
+desde la posición origen a la posición destino. En este caso es conveniente que ubiquemos sobre el 
+escritorio las dos ventanas asociadas a las carpetas.  
+La operación se interpreta de distinta forma cuando se está transfiriendo información entre 
+carpetas de la misma unidad de disco o entre carpetas de unidades diferentes. Al arrastrar los iconos 
+de una carpeta a otra dentro de la misma unidad, se mueven los archivos.  Si lo que queremos es 
+copiarlos, debemos arrastrarlos mientras se tiene pulsada la tecla Ctrl. Si arrastramos los iconos entre 
+Introducción a la Operación de Computadoras Personales 
+ 
+Departamento de Ciencias e Ingeniería de la Computación – Universidad Nacional del Sur 
+31 
+carpetas de diferentes unidades se copian los archivos. Si lo que queremos es moverlos, los 
+arrastramos mientras pulsamos la tecla Shift. 
+Eliminar un archivo o carpeta 
+Para borrar un archivo o carpeta, haga clic derecho sobre el icono y luego seleccione Delete 
+(Eliminar) desde el menú emergente. Esto funciona con archivos, carpetas, accesos directos y 
+prácticamente cualquier otra cosa en Windows. Alternativamente, puede seleccionar el elemento a 
+eliminar y presionar la tecla Supr (Delete). Arrastrar y soltar un archivo o una carpeta a la papelera 
+de reciclaje logra el mismo efecto. 
+PAPELERA DE RECICLAJE  
+La papelera funciona como un lugar de almacenamiento intermedio antes de borrar 
+definitivamente un archivo. Al abrir la Papelera aparece una lista con todos los archivos y carpetas 
+borrados, para que podamos recuperarlos o bien eliminarlos definitivamente. Las operaciones sobre 
+la papelera permiten vaciar y restaurar elementos.  
+ 
+Cuando alguno de los dispositivos de almacenamiento se está quedando sin espacio, un buen lugar 
+para conseguir espacio es verificar que la papelera esté vacía, ya que todos aquellos elementos que 
+han sido borrados, pero no han sido eliminados definitivamente aún ocupan espacio en el medio. Sin 
+embargo, debe tener la precaución de verificar al momento de vaciar la papelera que definitivamente 
+no va a necesitar tales archivos o carpetas, ya que su recuperación posterior es difícil (existen algunos 
+programas a tal efecto, pero que no garantizan la recuperación total o la integridad de los datos, y 
+menos aún cuanto más tiempo pase). 
+Administrador de Tareas 
+Un sistema operativo debería tener siempre bajo control todas las tareas que se están ejecutando 
+en el ordenador, de forma que el sistema no dejase de funcionar, pero esto no siempre es así y a 
+veces una tarea se descontrola y el sistema se bloquea. Esto se lo conoce como "cuelgue" o "quedarse 
+colgado". 
+En estos casos hay que intentar eliminar la tarea descontrolada, para ello debemos pulsar de 
+forma simultánea las teclas Ctrl + Alt + Supr (o Del), y aparecerá un menú en el que podremos 
+elegir Iniciar el Administrador de tareas. Desde el Administrador de tareas podremos finalizar los 
+procesos que no responden. En otros casos, ni siquiera podremos abrir el Administrador de Tareas, 
+y no quedará otro remedio que reiniciar el ordenador mediante el botón de "reset" o reinicio. En 
+última instancia, se puede desconectar de la red eléctrica, pero siempre es preferible utilizar el botón 
+de reinicio. En este último caso perderemos todo lo que estábamos haciendo si no hemos guardado 
+los cambios. De ahí la importancia de ir guardando nuestro trabajo frecuentemente. 
+Introducción a la Operación de Computadoras Personales 
+ 
+Departamento de Ciencias e Ingeniería de la Computación – Universidad Nacional del Sur 
+32 
+Algunos ordenadores portátiles no tienen botón de reinicio, y como funcionan con baterías, 
+tampoco sirve de nada desconectarlos de la red eléctrica para apagarlos. La solución suele ser 
+mantener pulsado el botón de encendido/apagado durante 8 o 10 segundos. 
+Seguridad Informática 
+Uno de los más graves errores que se pueden cometer al usar un PC es pensar que es seguro y que 
+los documentos, gráficos, etc. que se vayan creando estarán a salvo de cualquier desgracia. Este 
+pensamiento es el origen de muchas frustraciones de los usuarios de PC. Al fin y al cabo, una 
+computadora es una máquina creada por humanos y por tanto puede sufrir defectos en muchos 
+aspectos: puede haber errores de diseño, está sujeto a las fluctuaciones del entorno, se deteriora 
+con el paso del tiempo, los programas tienen errores, el mismo usuario puede usarlo 
+incorrectamente, etc. Cada usuario debe ser consciente de eso y obrar en consecuencia: debe pensar 
+activamente en la seguridad de sus datos, en primer lugar, y de su entorno de trabajo en segundo 
+lugar. Preocuparse desde el principio y usar una pequeña cantidad de tiempo de vez en cuando en la 
+seguridad puede ahorrar luego una cantidad muy grande de tiempo, preocupación e incluso 
+desesperación.  
+Las PC tampoco son seguros tomando la palabra seguridad en la acepción de confidencialidad. En 
+principio, en un PC no se puede almacenar ningún dato de modo que permanezca oculto a las demás 
+personas que usen el ordenador. Para poder conseguirlo es imprescindible el uso de contraseñas, 
+que son combinaciones secretas de letras y números que se introducen por el teclado cuando son 
+requeridas por los programas. Los usuarios deben ser conscientes de que sus datos privados sólo 
+están protegidos en la medida en que sus contraseñas estén protegidas. 
+SEGURIDAD A CORTO PLAZO 
+Cuando se está trabajando con un programa normalmente se están ingresando datos en la 
+computadora, ya sea que se esté usando un procesador de texto, una base de datos, un programa 
+de diseño, una planilla de cálculos, escribiendo un mail, etc. En cada caso, es el usuario el que está 
+creando algo.  
+La primera medida de seguridad es ir grabando en memoria secundaria (disco duro, pendrive o 
+en internet) el trabajo que está siendo realizado frecuentemente. Aun cuando el trabajo no esté 
+terminado. Un grave error es trabajar durante varias horas y sólo al final grabar el trabajo. El motivo 
+de tener que hacer esto es muy sencillo: lo que se va creando se almacena en memoria principal 
+(RAM) y si la computadora se apaga por cualquier motivo (falla eléctrica, alguien desenchufa por 
+accidente, uno mismo apaga sin querer), entonces el trabajo realizado se pierde sin posibilidad 
+alguna de ser recuperado. 
+Algunos programas hacen copias de seguridad automáticamente cada cierto tiempo, regulable 
+por el usuario. Es conveniente usar esta posibilidad como complemento a las copias que vamos 
+realizando nosotros. Si se mantiene esta costumbre y la computadora se apaga por accidente, lo 
+único que se pierde es lo realizado desde la última vez que se grabó, pero no todo el trabajo. 
+Introducción a la Operación de Computadoras Personales 
+ 
+Departamento de Ciencias e Ingeniería de la Computación – Universidad Nacional del Sur 
+33 
+Una medida de apoyo contra los apagones es instalar un Sistema de Alimentación Ininterrumpida 
+(en inglés UPS), que consiste en un sistema de baterías colocadas entre el tomacorriente y la 
+computadora. Otra costumbre absolutamente obligatoria es cerrar los programas antes de apagar la 
+computadora. Hay que dar a cada programa la orden adecuada para concluir su ejecución y así 
+permitirle que cierre los archivos que tenga abiertos. Esto es particularmente relevante con los 
+programas que manejan bases de datos. 
+SEGURIDAD A MEDIANO PLAZO 
+En una PC los datos que va creando el usuario (documentos, dibujos, bases de datos, hojas de 
+cálculo...) normalmente se van almacenando en el disco duro, por ser lo más rápido y cómodo. Pero 
+si sólo se almacenan ahí, están en peligro: el disco duro se puede estropear; alguien puede borrar, 
+pueden ser atacados por virus, etc. Por lo tanto, es obligatorio hacer copias de nuestros archivos. Al 
+fin y al cabo, lo más importante de una computadora es lo que creamos con ella. Si se pierde o 
+estropea un programa del disco duro, lo podemos volver a instalar; pero nuestros datos no los 
+podemos conseguir de ningún sitio.  
+Si los archivos no son muy grandes, se pueden copiar directamente en CDs o Pendrives. Si son 
+muchos o muy grandes, se pueden copiar usando programas compresores. Si el número y tamaño de 
+nuestros datos es realmente elevado, hay que usar un programa específico para hacer copias de 
+seguridad (en inglés se dice hacer backups). Estos programas pueden realizar copias de seguridad de 
+gran cantidad de archivos y de directorios completos usando para ello una serie de CDs o DVDs. 
+Tener una sola copia de seguridad de nuestros datos no se suele considerar suficiente. Por tanto, 
+se recomienda tener más de una copia de seguridad y almacenar alguna en un sitio seguro. ¿Cuántas 
+copias? Cuanto más importantes sean los datos y más aprecio les tengamos, más.  
+Una alternativa interesante en la actualidad es la de disponer de una copia de nuestros datos “en 
+la nube”, es decir, en sitios especiales de internet. Allí estarán más seguros ante posibles fallos, pero 
+la desventaja de esta alternativa es que allí corren peligro de que otros usuarios vean esta 
+información. 
+SEGURIDAD A LARGO PLAZO 
+Cuando se realizan muchas tareas en un ordenador suelen usarse varios programas. A lo largo del 
+tiempo, los programas se van personalizando y todo el sistema se va adaptando a las necesidades y 
+gustos de su usuario. Si sólo se han realizado copias de los datos estaremos bastante seguros, pero 
+si el disco duro se estropea, tendremos que volver a instalarlo todo otra vez, lo que puede ser 
+incómodo y sobre todo tedioso. Si el ordenador debe estar en funcionamiento muchas horas al día, 
+o ininterrumpidamente, tenerlo parado mucho tiempo mientras se vuelve a poner a punto puede ser 
+un gran perjuicio. Por tanto, es muy recomendable realizar copias de seguridad completas, de todo 
+el disco duro.  
+En la actualidad, se están extendiendo el uso de escritorios virtuales donde la personalización 
+realizada en nuestro escritorio queda guardada en la nube, brindándonos esto seguridad ante fallos 
+y portabilidad, es decir, la posibilidad de utilizar nuestra configuración del escritorio en cualquier PC 
+en que nos ubiquemos. La desventaja, es la confidencialidad al publicar nuestra configuración en 
+internet. 
+Introducción a la Operación de Computadoras Personales 
+ 
+Departamento de Ciencias e Ingeniería de la Computación – Universidad Nacional del Sur 
+34 
+COPIAS DE SEGURIDAD 
+Las copias de seguridad permiten restaurar archivos y carpetas cuando se producen daños o 
+pérdidas provocadas por fallas en el hardware o errores en el mantenimiento. Las copias de seguridad 
+en general resguardan los datos y programas almacenados en el disco rígido, copiándolos en 
+dispositivos removibles u otros discos en el equipo o en una red de equipos. Algunas versiones de 
+Windows brindan herramientas específicas para resguardar archivos, pero con frecuencia resulta útil 
+usar el software provisto con los dispositivos de almacenamiento. 
+El resguardo es una tarea crítica que debe realizarse con objetivos en ocasiones contrapuestos: 
+seguridad, eficiencia y costo. Algunas de las decisiones a tomar son: 
+ 
+¿Cuánta información se debe copiar?  
+ 
+¿De cuánto tiempo se dispone para realizar la copia de seguridad?  
+ 
+¿Cada cuánto tiempo se debe realizar una copia de seguridad de la información?  
+ 
+¿Quién se encarga de verificar el acabado de las copias de seguridad?  
+ 
+¿Cuántas unidades y tipos de unidades se van a emplear?  
+ 
+¿Cada cuánto tiempo se rescribirán los dispositivos?  
+La copia de seguridad puede ser completa, e incluir en este caso el resguardo de archivos del 
+sistema, o parcial, en cuyo caso sólo se copian los archivos seleccionados. Las herramientas para 
+crear copias de seguridad se complementan con opciones para restaurar archivos, hacer copias 
+incrementales y comparar los archivos originales con los archivos resguardados para detectar 
+diferencias. 
+VIRUS INFORMÁTICOS 
+Una fuente de problemas y preocupaciones es la existencia de virus informáticos. Son programas 
+de computadora, normalmente pequeños, que tienen la capacidad de autorreproducirse: se 
+incrustan en disquetes, ciertas zonas de los discos duros, mensajes de correo electrónico, etc. y a 
+partir de ahí intentan contagiar otras computadoras. Mientras ocurre toda esta actividad, intentan 
+pasar desapercibidos a los ojos de los usuarios, para poder reproducirse cuanto puedan. 
+Cuando llega un momento determinado, que depende de cada virus, se desencadena alguna 
+acción característica, llamada el payload del virus. Pueden borrar archivos, modificarlos o dañarlos. 
+Los virus más dañinos pueden llegar a borrar las particiones de Microsoft Windows. Algunos virus se 
+limitan a molestar, sin destruir nada. 
+Una computadora puede quedar contaminada por un virus al leer un dispositivo de 
+almacenamiento que lo contenga, al ejecutar un programa e incluso al abrir algunos mensajes de 
+correo electrónico con algunos programas poco seguros. Cuando el virus se instala en el disco duro, 
+contamina los dispositivos que se van introduciendo en la computadora, o intenta reproducirse por 
+la red a otras computadoras o manda mensajes de correo electrónico a los conocidos que estén en 
+la libreta de direcciones del usuario. 
+En Windows existen miles de virus, muchos menos para Macintosh y apenas hay alguno muy 
+controlado en GNU/Linux. Los virus producen daños económicos muy importantes y pueden destruir 
+el trabajo de mucho tiempo. 
+Introducción a la Operación de Computadoras Personales 
+ 
+Departamento de Ciencias e Ingeniería de la Computación – Universidad Nacional del Sur 
+35 
+MÉTODOS DE PROTECCIÓN 
+Para protegerse contra los virus se aconsejan varias acciones: 
+1. Hacer copias de seguridad. Utilizar sistemas operativos más seguros, por ejemplo, 
+GNU/Linux. 
+2. No usar programas ilegales o de procedencia dudosa. 
+3. Instalar un antivirus.  
+4. Instalar un cortafuego (firewall), para proteger las comunicaciones por Internet. Los 
+programas cortafuegos monitorizan constantemente la conexión a Internet, detectan los 
+accesos no autorizados que producen muchos virus y avisan al usuario.  
+5. Comprobar los archivos obtenidos en Internet. Tanto si se reciben archivos junto con el 
+correo electrónico como si se cargan desde un sitio Web. 
+6. Desactivar la ejecución automática de adjuntos de correo.  
+7. Usar antivirus actualizados. Es vital que los antivirus sean lo más recientes posible, ya que 
+aparecen nuevos virus constantemente. Los buenos programas antivirus lanzan 
+actualizaciones (updates) cada mes. 
+Compresión de Datos 
+El propósito de los programas compresores es muy sencillo: comprimir archivos para que ocupen 
+menos espacio y descomprimirlos cuando haya que volver a usarlos. Para aprovechar mejor el 
+espacio, estos programas pueden unir varios archivos en un solo archivo comprimido. Por tanto, es 
+necesario que los programas compresores ofrezcan opciones para añadir, actualizar y eliminar 
+archivos a un archivo comprimido, y para consultar qué archivos se encuentran en un archivo 
+comprimido. 
+Existen dos tipos de compresión, basadas en principios diferentes y con utilizaciones 
+completamente distintas: compresión sin pérdidas y compresión con pérdidas. 
+COMPRESIÓN SIN PÉRDIDAS 
+Es aquella en la que al comprimir un archivo y descomprimirlo se obtiene exactamente el archivo 
+original. El modo de actuación del compresor consiste en buscar repeticiones de símbolos en el 
+archivo original y escribirlos de otra forma, que sea más corta; el programa descompresor reconoce 
+la nueva manera de escribir los datos y puede ir regenerando los originales.  
+La compresión sin pérdidas se utiliza, entre otros casos, en los siguientes: 
+ Copias de seguridad. Al ocupar menos los archivos originales, se utilizan mejor los dispositivos 
+de almacenamiento: en el mismo espacio disponible se almacenará más información y se tardará 
+menos en grabarla. Ejemplo de formato Zip, Rar, Arj, etc. 
+ Transferencia de información. El tiempo de conexión entre computadoras se reduce 
+considerablemente si la información se envía comprimida. 
+Introducción a la Operación de Computadoras Personales 
+ 
+Departamento de Ciencias e Ingeniería de la Computación – Universidad Nacional del Sur 
+36 
+COMPRESIÓN CON PÉRDIDAS 
+En este tipo de compresión no se obtiene el mismo archivo que el original al comprimir y 
+descomprimir un archivo, parte de la información original se pierde. Puede parecer un problema, 
+pero se supone que la información que se pierde no es imprescindible para comprender el mensaje 
+del original. Se utiliza principalmente en estos campos: 
+ Almacenamiento de imágenes naturales. Las imágenes obtenidas del natural mediante 
+escáneres y cámaras fotográficas digitales suelen ser muy grandes y con gran cantidad de 
+colores. Sin embargo, el ojo no tiene tanta capacidad de discernimiento, por lo que es posible 
+eliminar parte de la información y que aun así el resultado sea aceptable. Por ejemplo, el formato 
+JPEG.  
+ Almacenamiento de vídeo. Los vídeos digitales ocupan muchísimo, de modo que siempre se 
+manejan comprimidos. El formato más conocido es el MPEG, utilizado (entre otros lugares) en 
+los DVD de vídeo. 
+ Almacenamiento de sonido natural. La mayor calidad de sonido se obtiene en el CD audio, que 
+no tiene ningún tipo de compresión, pero ocupa mucho espacio. Algunas frecuencias de sonido 
+se pueden eliminar y pocos oídos lo notan. Utilizan esta compresión el formato mp3, el mini-disc 
+y el iPod. 
+Existen muchos formatos de archivos comprimidos sin pérdidas de uso general, como por ejemplo 
+ZIP, LHA, ZOO, ARJ, CAB, RAR y GZ. Probablemente el formato ZIP sea el más popular. Existen varios 
+programas capaces de manejarlo, así como muchos programas que crean y descomprimen archivos 
+ZIP, para casi todos los sistemas operativos conocidos. Entre los muchos programas con estas 
+características que funcionan bajo Microsoft Windows, por ejemplo: 
+ WinZip. Probablemente sea el más conocido y el más utilizado. Es un programa shareware. 
+ EasyZip. Es muy similar a WinZip, pero freeware. 
+ 7-zip. Es muy sencillo de utilizar, se integra con el Explorador de Windows. Es software libre. 
+COMPRIMIR Y DESCOMPRIMIR EN WINDOWS 7 
+Comprimir y descomprimir archivos y carpetas en formato zip es una tarea sencilla en Windows 7. 
+Para comprimir simplemente debe: 
+1. Seleccionar los archivos y carpetas a comprimir. 
+2. Presionar el botón derecho del mouse para desplegar el menú contextual. 
+3. Seleccionar Enviar a (Send To) y la opción Carpeta Comprimida (zipped). 
+Como resultado se genera un archivo que contiene toda la estructura y archivos seleccionados. El 
+icono que corresponde por defecto a los archivos comprimidos es: 
+ 
+Para descomprimir, es decir, extraer el contenido de un archivo comprimido se realizan los 
+siguientes pasos: 
+Introducción a la Operación de Computadoras Personales 
+ 
+Departamento de Ciencias e Ingeniería de la Computación – Universidad Nacional del Sur 
+37 
+1. Presionar el botón derecho sobre el archivo comprimido. 
+2. Selecciona Extraer todos 
+3. Se abrirá una ventana donde se preguntará el destino a ubicar los archivos y carpetas a 
+extraer, luego apretar Extraer. 
+Accesos directos del teclado en el escritorio 
+ACCIÓN 
+COMBINACIÓN DE TECLAS 
+Cerrar la aplicación 
+Alt + F4 
+Crear un nuevo archivo 
+Ctrl + N 
+Abrir un archivo 
+Ctrl + O 
+Guardar el archivo actual 
+Ctrl + S 
+Imprimir el archivo actual 
+Ctrl + P 
+Deshacer la última operación 
+Ctrl + Z 
+Rehacer la última operación 
+Ctrl + Y 
+Cortar el área seleccionada y enviarla al portapapeles 
+Ctrl + X   o  Shift + Delete (Mayúsculas + Suprimir) 
+Copiar el área seleccionada y enviarla al portapapeles 
+Ctrl + C   o  Ctrl + Ins 
+Pegar contenido del portapapeles en el área actual 
+Ctrl + V   o  Shift + Ins (Mayúsculas + Ins) 
+Seleccionar todo el contenido del control o ventana 
+actual 
+Ctrl + E 
+Buscar palabras en múltiples textos o archivos 
+ + F 
+Aumentar zoom 
+Ctrl + +   o Ctrl + Rueda Ratón 
+Disminuir zoom 
+Ctrl + -   o Ctrl + Rueda Ratón 
+Recargar archivo o actualizar 
+F5   o   Ctrl + R 
+Mostrar propiedades/ventana de información de 
+objetos seleccionados 
+Alt + Enter 
+Añadir ubicación actual a marcadores/favoritos 
+Ctrl + D 
+Alternar foco a la siguiente ventana 
+Alt + Tab 
+Alternar foco a la siguiente ventana (sin diálogo) 
+Alt + Esc 
+Menú contextual de la ventana activa 
+Alt + Barra Espaciadora 
+Cerrar la ventana activa 
+Alt + F4  o  Ctrl + F4 
+Mostrar/Ocultar el escritorio 
+ + D 
+Alternar entre pantalla completa y normal 
+F11 
+Crear una nueva pestaña 
+Ctrl + T 
+Ejecutar Comando o Aplicación 
+ + R 
+menú Inicio/Aplicaciones 
+  o  Ctrl + Esc 
+Copiar captura de pantalla del escritorio completo al 
+portapapeles 
+ImprPnt 
+Copiar captura de pantalla de la ventana activa al 
+portapapeles 
+Alt + ImprPant 
+Bloquear escritorio 
+ + L 
+Iniciar el Administrador de tareas/Tabla de procesos 
+Ctrl + Mayúsculas + Esc  o  Ctrl + Alt + Supr 
+Renombrar archivo 
+F2 
+ 
+ 
+Introducción a la Operación de Computadoras Personales 
+ 
+Departamento de Ciencias e Ingeniería de la Computación – Universidad Nacional del Sur 
+38 
+Windows 8 
+Windows 8 fue lanzado en octubre de 2012 y fue desarrollado principalmente para poder utilizarse 
+en dispositivos con pantalla táctil como celulares y tabletas. Por este motivo, los cambios más 
+notorios con respecto a las versiones anteriores de Windows, se presentan en su interfaz gráfica. 
+Por otra parte, Windows 8 fue desarrollado sobre la base de Windows 7, lo cual los hace muy 
+similares en muchos aspectos. En lo que sigue mostraremos las principales diferencias y similitudes 
+de estas dos versiones, de manera que un usuario familiarizado con Windows 7 pueda iniciarse en 
+Windows 8 con facilidad. 
+INICIO DE UNA SESIÓN 
+Al iniciar la computadora y una vez terminado el proceso de inicialización tanto de hardware como 
+de software, arribamos a una pantalla de bienvenida como la siguiente:  
+ 
+En esta pantalla nos debemos identificar seleccionando uno de nombres de usuarios existentes e 
+introduciendo el password o contraseña correspondiente, al igual que en otras versiones de 
+Windows. Note que en la parte inferior de la pantalla también se mantiene el botón para personas 
+con discapacidades (esquina izquierda) y el botón para apagar la PC (esquina derecha) con las mismas 
+funciones que en Windows 7. 
+PANTALLA DE INICIO  
+Una vez que el usuario se identificó con éxito, se accede a la pantalla de inicio, en lugar del 
+escritorio como sucede en Windows 7. Esta es la primera diferencia importante con Windows 7. 
+Introducción a la Operación de Computadoras Personales 
+ 
+Departamento de Ciencias e Ingeniería de la Computación – Universidad Nacional del Sur 
+39 
+ 
+ 
+ 
+En la pantalla Inicio de Windows 8 se muestra un gran número de iconos de manera estándar, 
+como Correo, Contactos, Escritorio, Mensajes, El Tiempo, Calendario, Fotos, Internet Explorer, 
+Mapas, Noticias, etc. Muchos de ellos sirven para abrir programas específicos, como Internet 
+Explorer. También hay "iconos dinámicos" que se pueden usar no solo para abrir una aplicación, sino 
+también para mostrar información actualizada. Los iconos El Tiempo, Calendario y Finanzas son 
+algunos ejemplos. Los iconos se pueden agregar, quitar, cambiar de lugar, tamaño y color, y organizar 
+de diferentes formas. La idea es que la pantalla de inicio contenga las aplicaciones favoritas y/o las 
+utilizadas más frecuentemente.  
+Personalizar la pantalla Inicio 
+Para mover un icono de lugar simplemente pulsa en un icono con el dedo (en el caso de contar 
+con una pantalla táctil) o haz clic en él con el mouse, mantenlo pulsado y arrastra el icono al lugar 
+que desees. Para cambiarlo de tamaño, pulsa en él y mantenlo pulsado, desliza rápidamente el dedo 
+un poco hacia abajo hasta que aparezca una cruz en la parte superior derecha, o haz clic con el botón 
+secundario del mouse en el icono y selecciona la opción Pequeño que aparece en la barra en la parte 
+inferior de la pantalla. Para aumentar el tamaño de un icono pequeño, selecciona el icono en cuestión 
+tal como se indica arriba y elige Grande. Para los iconos dinámicos, puedes usar este procedimiento 
+si quieres desactivar temporalmente la aplicación seleccionando la opción Desactivar el icono 
+dinámico en la barra de la parte inferior de la pantalla. Puedes quitar un icono de la pantalla Inicio 
+seleccionando la opción Desanclar de Inicio. Sin embargo, esta operación no quitará totalmente el 
+programa subyacente o la aplicación asociada. Para ello tienes que usar la opción Desinstalar. 
+También se pueden agrupar iconos para que la pantalla Inicio te resulte más fácil de usar. Si 
+arrastras un icono horizontalmente al extremo izquierdo o derecho, se muestra una barra vertical de 
+color gris claro. Puedes usar estas barras para agrupar los iconos de las aplicaciones relacionadas. Por 
+ejemplo, puedes crear un grupo para Comunicación con los iconos de Calendario, Mensajes, Correo 
+y Contactos, o un grupo para Noticias con los iconos de Finanzas, Noticias, Deporte, etc. También 
+Haciendo click aquí se 
+puede abandonar la sesión del 
+usuario y volver la pantalla de 
+bienvenida. 
+Ver más aplicaciones 
+Introducción a la Operación de Computadoras Personales 
+ 
+Departamento de Ciencias e Ingeniería de la Computación – Universidad Nacional del Sur 
+40 
+puedes asignar un nombre a estos grupos. Haz clic en el signo menos en la parte inferior derecha, o 
+aleja la pantalla juntando el pulgar y el dedo índice en la pantalla táctil. Se mostrará una visión general 
+más pequeña de todos los iconos en la pantalla. Haz clic con el botón secundario o pulsa en el grupo 
+recién creado y arrástralo un poco hacia abajo (hasta que aparezca una cruz en la parte superior 
+derecha del grupo), y haz clic en Dar nombre al grupo en la barra de la parte inferior de la pantalla. 
+Escribe el nombre que quieras (por ejemplo, Comunicación o Noticias) y haz clic en Nombre. También 
+puedes mover grupos completos de iconos en esta pantalla. A continuación, haz clic en cualquier 
+parte de la pantalla Inicio para alejar. 
+Cuando se instala un nuevo programa en tu equipo o tableta, aparece automáticamente un nuevo 
+icono en la pantalla Inicio. Puedes usar los procedimientos anteriores para personalizar el modo y el 
+lugar en el que se muestra este icono en la pantalla Inicio. También puedes descargar nuevas 
+aplicaciones a través de la Tienda de Windows 8: en la pantalla Inicio haz clic en el icono Tienda. Para 
+poder descargar estas aplicaciones es necesario contar con conexión a internet y poseer una cuenta 
+Microsoft (por ejemplo, de Hotmail) cuyos datos serán requeridos para poder hacer la descarga. 
+Haciendo clic sobre la flecha en la esquina inferior izquierda de la pantalla de inicio, se accede a la 
+pantalla de aplicaciones: 
+ 
+ 
+En esta pantalla se pueden ver las aplicaciones instaladas en el equipo, como el explorador de 
+Windows, block de notas, etc. Existe la opción de ordenarlas por nombre, fecha de instalación, por 
+categoría o las más usadas. También es posible buscar una aplicación por su nombre, introduciendo 
+un texto en el recuadro de la esquina superior derecha. 
+Cualquiera de las aplicaciones que aparecen en esta pantalla puede ser agregada a la pantalla de 
+inicio, simplemente haciendo clic con el botón secundario (derecho) del mouse en el icono que se 
+Ordenar las 
+aplicaciones 
+por: 
+nombre, 
+categoría,…  
+Buscar 
+aplicaciones 
+por nombre 
+Ir a la pantalla de inicio 
+Introducción a la Operación de Computadoras Personales 
+ 
+Departamento de Ciencias e Ingeniería de la Computación – Universidad Nacional del Sur 
+41 
+quiera agregar y luego haciendo clic en la opción Anclar a Inicio en la barra de la parte inferior de la 
+pantalla.  
+EL ESCRITORIO  
+Windows 8 cuenta con un escritorio que es prácticamente igual al de Windows 7. Para acceder al 
+escritorio se puede hacer clic sobre el icono con nombre “Escritorio” en la pantalla de inicio. Si este 
+no se encuentra en la pantalla de inicio, puede encontrarse en la pantalla de aplicaciones (si es 
+necesario realizando una búsqueda) y luego anclarse a la pantalla de inicio como cualquier aplicación. 
+Otra forma de acceder al escritorio es utilizando una combinación de teclas del teclado. Para esto 
+debe presionarse la tecla con el logo de Windows junto con la tecla de la letra “D”. 
+ 
+Como puede observarse el escritorio es prácticamente igual al de Windows 7, con la única 
+diferencia de que ya no existe el menú de inicio en la esquina inferior izquierda. En su lugar hay un 
+icono que nos permite ir a la pantalla de inicio, la cual reemplaza al menú de inicio tradicional de las 
+versiones anteriores de Windows. El resto del escritorio sigue siendo igual que en Windows 7, 
+conservando la barra de tareas que funciona de la misma forma.  
+TIPOS DE APLICACIONES  
+En Windows 8 existen dos tipos de aplicaciones: las aplicaciones nativas o propias de Windows 8 
+(que son las que se descargan de la Tienda de Windows 8) y las aplicaciones tradicionales (como las 
+presentes en otras versiones de Windows). La principal diferencia entre estos tipos de aplicaciones 
+es que las aplicaciones nativas de Windows 8 no se ejecutan dentro de una ventana como las 
+aplicaciones tradicionales, sino que ocupan toda la pantalla, porque están diseñadas para dispositivos 
+Acceso a 
+la Pantalla 
+de inicio  
+Introducción a la Operación de Computadoras Personales 
+ 
+Departamento de Ciencias e Ingeniería de la Computación – Universidad Nacional del Sur 
+42 
+con pantalla táctil como celulares o tabletas. Por ejemplo, si ejecutamos la aplicación del Correo 
+(Mail) se mostrará la siguiente pantalla:  
+ 
+Note que este tipo de aplicaciones no se ejecuta en una ventana, por lo tanto, no se puede 
+minimizar o cambiar de tamaño, siempre ocupa toda la pantalla.  Para cerrar la aplicación debemos 
+presionar la combinación de teclas “Alt” y “F4”. Para volver a la pantalla de inicio hay que posicionar 
+el mouse (o el dedo en el caso de una pantalla táctil) en la esquina inferior izquierda hasta que 
+aparezca el icono de la pantalla de inicio y presionarlo. Si posicionamos el mouse (o el dedo en el 
+caso de una pantalla táctil) en la esquina superior izquierda de la pantalla y luego arrastramos hacia 
+abajo, aparecerá una barra con todas las aplicaciones activas y podremos ir a cualquiera de ellas 
+haciendo clic sobre el icono de la aplicación.  
+ 
+Esta barra puede invocarse de la misma forma desde cualquier pantalla (por ej. Escritorio). 
+También es posible pasar de una aplicación abierta a otra utilizando la combinación de teclas “Alt” + 
+“Tab”, como en las versiones anteriores de Windows. 
+Al ejecutar una aplicación tradicional, esta se ejecuta dentro de una ventana en el escritorio, al 
+igual que en Windows 7. Por ejemplo, si ejecutamos el bloc de notas, se mostrará la siguiente ventana 
+en el escritorio: 
+Barra con las 
+aplicaciones 
+activas 
+Introducción a la Operación de Computadoras Personales 
+ 
+Departamento de Ciencias e Ingeniería de la Computación – Universidad Nacional del Sur 
+43 
+ 
+Las aplicaciones tradicionales y las ventanas funcionan de la misma forma que en Windows 7. 
+BARRA DE OPCIONES DEL SISTEMA: CHARM BAR 
+Desde cualquier pantalla (de inicio, escritorio o de una aplicación) es posible acceder a una barra 
+con las opciones más comunes del sistema, conocida como Charm Bar. Para que la barra aparezca 
+hay que posicionar el mouse (o el dedo en el caso de pantalla táctil) en la esquina inferior derecha de 
+la pantalla y aparecerá la siguiente barra vertical sobre el borde derecho de la pantalla:  
+  
+Como dijimos anteriormente, la barra se puede acceder desde cualquier pantalla y las opciones 
+que se seleccionen serán relativas a la pantalla donde te encuentres. Muchas de estas opciones 
+reemplazan a otras similares (como buscar y dispositivos e impresoras) que estaban presentes en el 
+menú de inicio de Windows 7 y que fue eliminado en Windows 8 
+La barra cuenta con 5 opciones principales:  
+Realizar una búsqueda  
+Compartir información con otros  
+Ir a la pantalla de inicio 
+Utilizar dispositivos conectados 
+Configuración 
+Introducción a la Operación de Computadoras Personales 
+ 
+Departamento de Ciencias e Ingeniería de la Computación – Universidad Nacional del Sur 
+44 
+ 
+   
+   
+   
+   
+ 
+Con la opción Buscar, podemos elegir entre buscar aplicaciones, archivos o una configuración de 
+la computadora.  
+ 
+Con la opción Compartir podemos compartir rápidamente archivos e información con nuestros 
+contactos, por ejemplo, a través de la aplicación Correo. 
+La opción de dispositivos permite utilizar un dispositivo conectado (como una pantalla o 
+impresora) en una aplicación. Por ejemplo, podemos mostrar contenido en una segunda pantalla, 
+imprimir el contenido o enviarlo a un televisor.  
+En la opción Configuración podemos acceder a la configuración y a información de la aplicación 
+activa. Además, podemos cambiar la configuración general de la PC. Entre otras cosas, podemos 
+conectarnos a una red, ajustar el sonido, ocultar temporalmente las notificaciones, apagar, reiniciar, 
+suspender la PC, o modificar el idioma del teclado y del sistema. Haciendo clic en Cambiar 
+configuración de PC, podemos acceder al Panel de control y configurar las opciones de la PC, como 
+la personalización, los usuarios, Windows Update, etc.  
+ 
+ 
+Introducción a la Operación de Computadoras Personales 
+ 
+Departamento de Ciencias e Ingeniería de la Computación – Universidad Nacional del Sur 
+45 
+CONTROLES, GESTOS Y ATAJOS DE TECLADO EN WINDOWS 8 
+Windows 8 conserva la mayoría de los atajos de teclado de Windows 7, pero agrega algunos 
+nuevos incluyendo gestos del mouse y gestos táctiles.  
+ 
+ 
+Introducción a la Operación de Computadoras Personales 
+ 
+Departamento de Ciencias e Ingeniería de la Computación – Universidad Nacional del Sur 
+46 
+Atajos de teclado de Windows 8 
+ 
+ 
+Win - abre la pantalla de Inicio 
+ 
+Win + D - abre el Escritorio y, si ya estás en él, minimiza todas las ventanas 
+ 
+Win + Q - muestra las aplicaciones abiertas 
+ 
+Win + W - búsqueda instantánea de opciones 
+ 
+Win + F - búsqueda instantánea de archivos 
+ 
+Win + I - abre la Charms bar 
+ 
+Win + X - abre un menú especial con opciones avanzadas 
+ 
+Win + Z - muestra la barra de apps de Metro 
+ 
+Win + . - Encaja la app actual en la derecha de la pantalla, o en la izquierda si lo pulsas dos veces. 
+ 
+Win + . + Shift - Encaja la app actual a la izquierda de la pantalla 
+ 
+Win + J - Alterna entre las apps encajadas en la pantalla 
+ 
+ 
+Introducción a la Operación de Computadoras Personales 
+ 
+Departamento de Ciencias e Ingeniería de la Computación – Universidad Nacional del Sur 
+47 
+Windows 10 
+Tras el poco éxito y aceptación que tuvo Windows 8, Microsoft lanzó Windows 10 en un intento 
+de volver a la apariencia clásica de Windows, manteniendo algunos conceptos de Windows 8 para 
+adaptarse a los nuevos dispositivos con pantalla táctil.  
+La pantalla de inicio de sesión conserva un aspecto muy similar a la de Windows 8. En esta pantalla 
+nos debemos identificar seleccionando uno de nombres de usuarios existentes e introduciendo la 
+contraseña correspondiente. En la parte inferior derecha de la pantalla también se mantiene el botón 
+para personas con discapacidades y el botón para apagar la PC con las mismas funciones que en 
+Windows 7. 
+ 
+La interfaz Metro (Modern UI) que dominaba la experiencia de Windows 8 (y un poco menos la de 
+Windows 8.1) desaparece casi totalmente en esta edición de Windows. Microsoft la rescata para 
+algunos apartados, pero está claro que Windows 10 es un sistema operativo con el que usuario de 
+Windows de toda la vida se sentirá muy a gusto. 
+A ello contribuye en primer lugar el menú de inicio tradicional y que vuelve con un formato muy 
+interesante. El logotipo de Windows que de nuevo sirve para acceder a documentos y programas 
+recientes y favoritos abandona esa modalidad de pantalla completa que nos brindaba Windows 8 y 
+se ajusta a un tamaño mucho más reducido (no llega a una cuarta parte de la pantalla) que lo hace 
+más "manejable" con el ratón y el teclado. 
+En este nuevo menú de inicio cobran especial protagonismo las baldosas animadas, herencia clara 
+de Windows 8, que son muy necesarias en Smartphones y Tablets. Aquí Microsoft ha sabido adaptar 
+cada experiencia para cada dispositivo, pero sin obligar a los usuarios a conformarse con una u otra. 
+Podremos cambiar el comportamiento de este menú en la Configuración de Windows 10, y podremos 
+hacer que ese menú ocupe toda la pantalla en lugar de una porción de ella, algo que puede interesar 
+a los que trabajen mucho con tablets y usen más el entorno táctil que el entorno ratón/teclado.  
+Introducción a la Operación de Computadoras Personales 
+ 
+Departamento de Ciencias e Ingeniería de la Computación – Universidad Nacional del Sur 
+48 
+ 
+ 
+ 
+La personalización de las baldosas es la que ya conocíamos de versiones previas y plataformas 
+como Windows Phone 8. Haciendo click con el boton derecho sobre cualquier baldosa, podremos 
+anclarlas y desanclarlas del menú de inicio y cambiar su tamaño (pequeño, mediano, ancho y grande), 
+además de activar o no la animación si éstas baldosas disponen de ella.  
+Al desplegar el menú de inicio arriba tenemos acceso a las aplicaciones más usadas y debajo si 
+pinchamos en “todas las aplicaciones” accedemos a una lista ordenada alfabéticamente; pulsando 
+en una letra haremos que aparezca el abecedario completo a partir de lo cual podremos elegir la 
+primera letra de la aplicación 
+para ir a la parte del listado 
+correspondiente a ella. 
+Botón de Inicio 
+Barra de tareas 
+Area de notificaciones 
+Ir al 
+Escritorio 
+Menú de inicio 
+Baldosas animadas 
+Centro de actividades 
+Introducción a la Operación de Computadoras Personales 
+ 
+Departamento de Ciencias e Ingeniería de la Computación – Universidad Nacional del Sur 
+49 
+El concepto es interesante y perfectamente usable con el ratón, aunque como en el caso de las 
+baldosas esté más orientado a usos táctiles. En cualquier caso, el lanzamiento de aplicaciones es 
+mucho más rápido si usamos ratón y teclado acudiendo a lo de siempre: pulsar la tecla Windows, 
+comenzar a escribir el nombre de la aplicación, esperar un instante a que Windows 10 detecte cuál 
+es, y lanzarla pulsando la tecla Enter.  
+Las opciones para apagar o reiniciar el ordenador se sitúan en la habitual parte baja del menú de 
+inicio, mientras que las opciones para cerrar la sesión o bloquearla se activan al pinchar el icono de 
+nuestro usuario de Windows. 
+Por lo demás nos encontramos con una organización sencilla en la que destaca también la posición 
+fija de la aplicación de Configuración y el acceso directo al ya conocido Explorador de archivos 
+(conocido en Windows 7 como Explorador de Windows) que mantiene las mismas funciones 
+cambiando levemente su aspecto visual. 
+t
+ 
+La aplicación de configuración reemplaza de alguna forma al “panel de control” de versiones 
+anteriores de Windows, aunque este último sigue existiendo. 
+ 
+ 
+ 
+Introducción a la Operación de Computadoras Personales 
+ 
+Departamento de Ciencias e Ingeniería de la Computación – Universidad Nacional del Sur 
+50 
+ 
+A través de esta aplicación podemos: 
+ configurar diferentes opciones del sistema.  
+ Administrar, agregar o quitar  Dispositivos.  
+ configurar acceso a internet y redes. 
+ personalizar la apariencia visual de windows.  
+ administrar cuentas de usuario: agregar usuarios, cambiar contraseñas , etc. 
+ cambiar el formato de fecha y hora, y el idioma (configuracion regional) 
+  
+ mejorar la accesibilidad para personas con dificultad visual 
+ configurar opciones de privacidad: ubicación por gps y uso de la cámara  
+ administrar las actualizaciones y la seguridad del sistema 
+NOVEDADES DE LA INTERFAZ DE USUARIO 
+Aunque hemos destacado el papel del menú de inicio, esa 
+no es la única novedad del nuevo escritorio de Windows 10. 
+Para empezar, está el Action Center o Centro de Actividades 
+donde se muestran las notificaciones del sistema operativo 
+(como actualizaciones requeridas, alerta de virus, etc) y a 
+partir del cual podemos acceder rápidamente a las opciones 
+de configuraciones más frecuentes. Su presentación está 
+claramente influida por los dispositivos móviles ya que 
+presenta iconos grandes y de acceso rápido a algunas 
+opciones comunes para celulares y tablets como: activar y 
+desactivar la conexión wifi, habilitar la “ubicación” por GPS y 
+a pasar al “modo tableta”, que se encuentra habilitado sólo si 
+contamos con una pantalla táctil en nuestro sistema. En este 
+modo la interfaz se simplifica notablemente, las aplicaciones 
+se abren siempre a pantalla completa y el menú de inicio toma 
+Introducción a la Operación de Computadoras Personales 
+ 
+Departamento de Ciencias e Ingeniería de la Computación – Universidad Nacional del Sur 
+51 
+el control absoluto de nuestra pantalla, ocupando toda la diagonal. 
+Encontramos otros iconos de acceso rápido que de nuevo recuerdan a la experiencia en móviles. 
+Así nos encontramos "Conectar" (por ejemplo, a una segunda pantalla de forma inalámbrica vía 
+Miracast), Notas (con OneNote), "Todas las configuraciones" (un acceso más a las preferencias de 
+sistema vía la aplicación Configuración), VPN, Período sin notificaciones (para controlar cuando se 
+nos puede "molestar" y cuando no). Esos accesos directos cambian en otros dispositivos -en tablets 
+y smartphones veremos probablemente otros como WiFi, datos móviles o brillo- y lo cierto es que 
+ese tipo de opciones no parecen especialmente destacables en escritorio. En general este es uno de 
+esos componentes que parecen estar más por la necesidad de adaptarlos para tener ahora un sistema 
+operativo "universal". 
+Mucho más interesante para los usuarios tradicionales de escritorio es la nueva Vista de Tareas, 
+un componente que permite mostrar de un vistazo rápido todas las aplicaciones abiertas. No solo 
+eso: es aquí donde podremos gestionar los nuevos escritorios virtuales, un concepto muy conocido 
+ya en distribuciones GNU/Linux y que hizo su debut en OS X Maverick hace casi dos años. 
+ 
+La Vista de Tareas es una forma cómoda de gestionar las tareas en ejecución para comprobar cuál 
+manejar en cada momento. Es una alternativa o una ayuda al tradicional Alt+Tab, y de hecho ese 
+atajo para el intercambiador de áreas convencional es muy parecido al de la nueva Vista de Tareas, 
+que se activa con la tecla Windows+Tab. 
+La gestión de los escritorios virtuales es realmente sencilla: podremos crear nuevos escritorios con 
+el botón "Nuevo escritorio" que aparece en ese Visor de Tareas en la parte inferior derecha, y a partir 
+de ahí saltar de uno a otro con el teclado o el ratón. Cada escritorio tiene su gestión independiente 
+de tareas: las aplicaciones abiertas en uno no aparecerán en la barra de tareas del otro, y al pulsar 
+Alt+Tab en cada escritorio de nuevo aparecerán solo las aplicaciones de ese escritorio concreto, no 
+del resto. No podremos de momento tener un fondo de escritorio distinto para cada escritorio virtual, 
+pero es algo que podría llegar en futuras actualizaciones. 
+Introducción a la Operación de Computadoras Personales 
+ 
+Departamento de Ciencias e Ingeniería de la Computación – Universidad Nacional del Sur 
+52 
+Podremos mover fácilmente aplicaciones entre un escritorio y otro arrastrando esas ventanas en 
+el Visor de Tareas entre esos escritorios virtuales, así como cerrarlas o cerrar por completo gracias a 
+las pequeñas cruces que aparecen en la parte superior derecha de esas aplicaciones minimizadas o 
+de los escritorios abiertos en cada caso.  
+Arrastrando una ventana hacia los bordes de la pantalla tenemos la posibilidad de acoplar hasta 
+cuatro ventanas. Aquellos que tengan grandes monitores o pantallas pueden trabajar de forma 
+cómoda y controlada con hasta cuatro aplicaciones al mismo tiempo. 

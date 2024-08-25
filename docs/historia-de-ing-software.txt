@@ -1,0 +1,120 @@
+HISTORIA Y EVOLUCIÓN DE LA 
+INGENIERÍA DEL SOFTWARE 
+Msg. William Frasser Acevedo 
+Escuela de Ciencias Exactas e Ingeniería Universidad Sergio Arboleda  
+Programa Ingeniería de Sistemas y Telecomunicaciones Asignatura Ingeniería de Software I 
+William.frasser@usa.edu.co 
+ 
+ 
+Abstract – A través de este escrito se presenta un acercamiento a 
+los hitos más importantes que se generaron desde la década de los 
+cincuenta hasta nuestros días en relación con la historia y 
+evolución de la ingeniería del software. 
+ 
+La historia de la ingeniería del software es paralela a la historia del 
+software, durante la década de los cincuenta se aplica al desarrollo de 
+software el mismo proceso que al desarrollo de hardware, se usa el 
+método científico para aprender a través de la experiencia, el 
+software se consideraba como un producto añadido y la 
+programación de computadores era un arte para el que no existían 
+métodos sistemáticos, el desarrollo de software se realizaba sin 
+ninguna planificación una solo persona lo escribía, lo ejecutaba y, si 
+fallaba, lo depuraba, el diseño era un proceso implícito, que se 
+realizaba en la mente del programador y la documentación no existía. 
+ 
+En la década de los sesenta con el surgimiento de la 
+multiprogramación y los sistemas multiusuario se introducen nuevos 
+conceptos de interacción hombre – máquina, los sistemas en tiempo 
+real recogían, analizaban y transformaban datos de múltiples fuentes 
+y apoyan la toma de decisiones, y como consecuencia nace la primer 
+generación de sistemas de gestión de bases de datos. Esta era se 
+caracteriza por la aparición del software como producto y el 
+nacimiento de las casa de software donde se producían programas de 
+miles de líneas de código fuente que tenían que ser corregidos cuando 
+se detectaban fallas y modificados cuando cambiaban los requisitos, 
+entonces se fomenta el proceso de desarrollo de software tipo 
+codifica y corrige. Como consecuencia de esta práctica y debido a 
+que los proyectos de software presentaban muchas fallas dado que los 
+desarrollos terminaban sobrepasando el tiempo y costos estimados al 
+inicio del proyecto, no se obtenían los resultados esperados y el 
+software era poco flexible, se inicia un fenómeno conocido como la 
+“crisis del software”, por esta razón en 1968 se realiza la primera 
+conferencia sobre desarrollo de software en Múnich, financiada por la 
+OTAN. Allí la “crisis del software” se convierte en el tema central y 
+se utilizó por primera vez el término "ingeniería del software" para 
+describir el conjunto de conocimientos que existían en un estado 
+inicial, así pues nace formalmente la rama de ingeniería de software. 
+ 
+Para la década de los setenta la evolución de los sistemas 
+distribuidos, las redes de área local y global y la creciente demanda 
+de acceso instantáneo a los datos supuso una fuerte presión sobre los 
+desarrollos de software incrementó notablemente la complejidad de 
+los sistemas informáticos, lo que incide en la identificación de las 
+diferentes fases del desarrollo de software como requerimientos, 
+análisis, codificación y pruebas, es aquí donde se introduce la 
+programación estructurada y los métodos formales para especificar 
+software, se identifican principios de diseño, como modularidad, 
+encapsulación, abstracción de tipos de datos, acoplamiento débil y 
+alta cohesión, se publica el modelo en cascada y se definen los 
+conceptos de verificación y validación. 
+ 
+La década de los ochenta se caracteriza por la productividad y 
+escalabilidad de sistemas y equipos de desarrollo, la industria del 
+software es la cuna de la economía del mundo donde las técnicas para 
+el desarrollo de software de cuarta generación (4GLs) cambian la 
+forma en que se construyen los programas para incrementar la 
+productividad a través de la programación por el usuario, se 
+introducen la tecnología de programación orientada a objetos a través 
+de múltiples lenguajes de programación   desplazando los enfoques 
+de desarrollo tradicionales. A finales de esta década se crea el primer 
+modelo de madurez de capacidad de procesos (SW-CMM). 
+  
+En los noventa y el nuevo siglo, la concurrencia (paralelismo y 
+distribución) adquiere mayor importancia, la orientación a objetos se 
+extiende a las fases de análisis y diseño, se implementa el lenguaje de 
+modelado (UML) y se genera el primer proceso comercial de 
+desarrollo orientado objetos (RUP). Los diseñadores y los arquitectos 
+de software inician su experiencia a través de patrones de diseño y de 
+arquitectura. Se define el modelo en espiral para el desarrollo basado 
+en el análisis de riesgos y el desarrollo de software iterativo e 
+incremental. Para esta década el software era privado entonces surge 
+la necesidad por parte de un grupo de programadores de crear 
+proyectos que impulsan la creación de software libre y de código 
+abierto. La usabilidad de sistemas se convierte en el foco de atención 
+e investigación, el software empieza a ocupar la posición crítica en el 
+mercado competitivo y en la sociedad Web.  
+ 
+En la actualidad los temas atañen a la agilidad en el desarrollo y el 
+valor para el cliente, los nuevos dispositivos (Celulares, PDAs, etc.) 
+se involucran en el ciclo de vida, las cualidades prioritarias de los 
+sistemas son Seguridad/Privacidad, Usabilidad y Confiabilidad, se 
+incrementa la programación de software empaquetado. El desarrollo 
+dirigido por modelos toma fuerza y se integra el desarrollo de 
+software con el de sistemas. La conectividad global proporcionada 
+por el Internet y las comunicaciones de banda ancha son la evolución 
+de las principales economías hacia redes de economías.  
+ 
+La tecnología digital está transformando a las organizaciones de 
+negocio, los sistemas actuales afectan directamente la forma en que 
+los administrativos deciden, la forma en que los directivos planifican, 
+y en muchos casos que bienes y servicios se producen y cómo, la 
+creciente potencia de la tecnología de computación ha dado origen a 
+poderosas redes de comunicación que las organizaciones pueden usar 
+para acceder a grandes depósitos de información de todo el mundo y 
+coordinar sus actividades en el espacio y tiempo, estas redes están 
+transformando la forma y el aspecto de las empresas de negocio, e 
+incluso a la sociedad. En consecuencia, se requerirá de nuevos 
+procesos de desarrollo para la colaboración global exitosa. 
+ 
+REFERENCIAS 
+ 
+Salvador Sánchez Alonso, Miguel Ángel Sicilia Urbán, Ingeniería del 
+Software, un enfoque desde la guía SWEBOK, Alfaomega Editores, 
+S.A. de C.V., México, 2012. 
+ 
+Pressman Roger, Ingeniería del Software un enfoque práctico, Ed. 
+Mc Graw-Hill, 2001. 
+ 
+Kenneth C. Laudon, Jane P. Laudon, Sistemas de información 
+Gerencial, Administración de la empresa digital, Pearson Prentice 
+Hall, 2008   

@@ -1,0 +1,128 @@
+HISTORIA DEL HARDWARE Y SOFWARE 
+ING. PABLO DÁVILA SILVA 
+HISTORIA DEL HARDWARE 
+La clasificación evolutiva del hardware del computador electrónico está 
+dividida en generaciones, donde cada una supone un cambio tecnológico 
+muy notable. El origen de las primeras es sencillo de establecer, ya que en 
+ellas el hardware fue sufriendo cambios radicales. Los componentes 
+esenciales que constituyen la electrónica del computador fueron totalmente 
+reemplazados en las primeras tres generaciones, originando cambios que 
+resultaron trascendentales. En las últimas décadas es más difícil distinguir 
+las nuevas generaciones, ya que los cambios han sido graduales y existe 
+cierta continuidad en las tecnologías usadas. En principio, se pueden 
+distinguir: 
+ 1ª Generación (1945-1956): electrónica implementada con tubos de 
+vacío. 
+Fueron 
+las 
+primeras 
+máquinas 
+que 
+desplazaron 
+los 
+componentes electromecánicos (relés). 
+ 
+ 2ª Generación (1957-1963): electrónica desarrollada con transistores. 
+La lógica discreta era muy parecida a la anterior, pero la 
+implementación resultó mucho más pequeña, reduciendo, entre otros 
+factores, el tamaño de un computador en notable escala. 
+ 
+HISTORIA DEL HARDWARE Y SOFWARE 
+ING. PABLO DÁVILA SILVA 
+ 3ª Generación (1964-hoy): electrónica basada en circuitos integrados. 
+Esta tecnología permitió integrar cientos de transistores y otros 
+componentes electrónicos en un único circuito integrado impreso en 
+una 
+pastilla 
+de 
+silicio. 
+Las 
+computadoras 
+redujeron 
+así 
+considerablemente su costo, consumo y tamaño, incrementándose su 
+capacidad, velocidad y fiabilidad, hasta producir máquinas como las 
+que existen en la actualidad. 
+ 
+ 4ª Generación (futuro): probablemente se originará cuando los 
+circuitos de silicio, integrados a alta escala, sean reemplazados por un 
+nuevo tipo de material o tecnología. 
+La aparición del microprocesador marca un hito de relevancia, y para 
+muchos autores constituye el inicio de la cuarta generación. A diferencia de 
+los cambios tecnológicos anteriores, su invención no supuso la 
+desaparición radical de los computadores que no lo utilizaban. Así, aunque 
+el microprocesador 4004 fue lanzado al mercado en 1971, todavía a 
+comienzo de los 80's había computadores, como el PDP-11/44, con lógica 
+carente de microprocesador que continuaban exitosamente en el mercado; 
+es decir, en este caso el desplazamiento ha sido muy gradual. 
+Otro hito tecnológico usado con frecuencia para definir el inicio de la cuarta 
+generación es la aparición de los circuitos integrados VLSI (Very Large 
+Scale Integration), a principios de los ochenta. Al igual que el 
+microprocesador, no supuso el cambio inmediato y la rápida desaparición 
+HISTORIA DEL HARDWARE Y SOFWARE 
+ING. PABLO DÁVILA SILVA 
+de los computadores basados en circuitos integrados en más bajas escalas 
+de integración. Muchos equipos implementados con tecnologías VLSI y MSI 
+(Medium Scale Integration) aún coexistían exitosamente hasta bien 
+entrados los 90. 
+ 
+ 
+HISTORIA DEL SOFTWARE 
+ 
+Entre los años 1960 y 1970, el software no era considerado un producto 
+sino un añadido que los vendedores de las grandes computadoras de la 
+época (las mainframes) aportaban a sus clientes para que éstos pudieran 
+usarlos. En dicha cultura, era común que los programadores y 
+desarrolladores de software compartieran libremente sus programas unos 
+con otros. Este comportamiento era particularmente habitual en algunos de 
+los mayores grupos de usuarios de la época, como DECUS (grupo de 
+usuarios de computadoras DEC). A finales de la década de 1970, las 
+compañías iniciaron el hábito de imponer restricciones a los usuarios, con 
+el uso de acuerdos de licencia. 
+En 1971, cuando la informática todavía no había sufrido su gran boom, las 
+personas que hacían uso de ella, en ámbitos universitarios y empresariales, 
+creaban y compartían el software sin ningún tipo de restricciones. 
+HISTORIA DEL HARDWARE Y SOFWARE 
+ING. PABLO DÁVILA SILVA 
+Con la llegada de los años 1980 la situación empezó a cambiar. Las 
+computadoras más modernas comenzaban a utilizar sistemas operativos 
+privativos, forzando a los usuarios a aceptar condiciones restrictivas que 
+impedían realizar modificaciones a dicho software. 
+En caso de que algún usuario o programador encontrase algún error en la 
+aplicación, lo único que podía hacer era darlo a conocer a la empresa 
+desarrolladora para que ésta lo solucionara. Aunque el programador 
+estuviese capacitado para solucionar el problema y lo desease hacer sin 
+pedir nada a cambio, el contrato le impedía que modificase el software. 
+El mismo Richard Matthew Stallman cuenta que por aquellos años, en el 
+laboratorio donde trabajaba, habían recibido una impresora donada por una 
+empresa externa. El dispositivo, que era utilizado en red por todos los 
+trabajadores, parecía no funcionar a la perfección, dado que cada cierto 
+tiempo el papel se atascaba. Como agravante, no se generaba ningún 
+aviso que se enviase por red e informase a los usuarios de la situación. 
+La pérdida de tiempo era constante, ya que en ocasiones, los trabajadores 
+enviaban por red sus trabajos a imprimir y al ir a buscarlos se encontraban 
+la impresora atascada y una cola enorme de trabajos pendientes. Richard 
+Stallman decidió arreglar el problema, e implementar el envío de un aviso 
+por red cuando la impresora se bloqueara. Para ello necesitaba tener 
+acceso al código fuente de los controladores de la impresora. Pidió a la 
+empresa propietaria de la impresora lo que necesitaba, comentando, sin 
+pedir nada a cambio, qué era lo que pretendía realizar. La empresa se negó 
+HISTORIA DEL HARDWARE Y SOFWARE 
+ING. PABLO DÁVILA SILVA 
+a entregarle el código fuente. En ese preciso instante, Stallman se vio en 
+una encrucijada: debía elegir entre aceptar el nuevo software propietario 
+firmando acuerdos de no revelación y acabar desarrollando más software 
+propietario con licencias restrictivas, que a su vez deberían ser más 
+adelante aceptadas por sus propios colegas. 
+Con este antecedente, en 1984, Richard Stallman comenzó a trabajar en el 
+proyecto GNU, y un año más tarde fundó la Free Software Foundation 
+(FSF). Stallman introdujo la definición de software libre y el concepto de 
+"copyleft", que desarrolló para otorgar libertad a los usuarios y para 
+restringir las posibilidades de apropiación del software. 
+ 
+Richard Matthew Stallman, creador del concepto de software libre y 
+fundador de la Free Software Foundation. 
+ 
+ 
+ 
+ 
