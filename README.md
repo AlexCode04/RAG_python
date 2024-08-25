@@ -12,11 +12,7 @@ chatbot_rag_env\Scripts\activate
 
 pip install -r requirements.txt
 
-4. Instalamos el modelo de spacy:
-
-python -m spacy download en_core_web_md
-
-5. Ejecutamos el script:
+4. Ejecutamos el script:
 
 python chatbot_rag.py
 
@@ -34,11 +30,7 @@ conda env create -f environment.yml
 
 conda activate chatbot_rag
 
-4. Instalamos el modelo de spacy:
-
-python -m spacy download en_core_web_md
-
-5. Ejecutamos el script:
+4. Ejecutamos el script:
 
 python chatbot_rag.py
 
